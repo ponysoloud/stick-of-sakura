@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 62bb4e9fdb2df4338a58a31cd03d377b
+timeCreated: 1462628152
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - parentObject: {instanceID: 0}
+  - point: {fileID: 171292, guid: 89128cd12ec5c40b38ceedf585e03473, type: 2}
+  - filledPoint: {fileID: 139322, guid: 9d57476ba2b2d42baa15e6bbe713e8f9, type: 2}
+  - connectedEdge: {fileID: 134614, guid: 995a8087e28494579b07bc8132993a44, type: 2}
+  - disconnectedEdge: {fileID: 129892, guid: 33776436f83434e5da6b927960a3abb3, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

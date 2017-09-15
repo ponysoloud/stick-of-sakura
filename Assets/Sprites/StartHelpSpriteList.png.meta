@@ -1,0 +1,867 @@
+fileFormatVersion: 2
+guid: 2d72ce9b211dd4948996150c7a79389d
+timeCreated: 1467206194
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: StartHelpSpriteList_0
+    21300002: StartHelpSpriteList_1
+    21300004: StartHelpSpriteList_2
+    21300006: StartHelpSpriteList_3
+    21300008: StartHelpSpriteList_4
+    21300010: StartHelpSpriteList_5
+    21300012: StartHelpSpriteList_6
+    21300014: StartHelpSpriteList_7
+    21300016: StartHelpSpriteList_8
+    21300018: StartHelpSpriteList_9
+    21300020: StartHelpSpriteList_10
+    21300022: StartHelpSpriteList_11
+    21300024: StartHelpSpriteList_12
+    21300026: StartHelpSpriteList_13
+    21300028: StartHelpSpriteList_14
+    21300030: StartHelpSpriteList_15
+    21300032: StartHelpSpriteList_16
+    21300034: StartHelpSpriteList_17
+    21300036: StartHelpSpriteList_18
+    21300038: StartHelpSpriteList_19
+    21300040: StartHelpSpriteList_20
+    21300042: StartHelpSpriteList_21
+    21300044: StartHelpSpriteList_22
+    21300046: StartHelpSpriteList_23
+    21300048: StartHelpSpriteList_24
+    21300050: StartHelpSpriteList_25
+    21300052: StartHelpSpriteList_26
+    21300054: StartHelpSpriteList_27
+    21300056: StartHelpSpriteList_28
+    21300058: StartHelpSpriteList_29
+    21300060: StartHelpSpriteList_30
+    21300062: StartHelpSpriteList_31
+    21300064: StartHelpSpriteList_32
+    21300066: StartHelpSpriteList_33
+    21300068: StartHelpSpriteList_34
+    21300070: StartHelpSpriteList_35
+    21300072: StartHelpSpriteList_36
+    21300074: StartHelpSpriteList_37
+    21300076: StartHelpSpriteList_38
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: StartHelpSpriteList_0
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 4910
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -154.57254, y: -71.5437}
+        - {x: -149.57254, y: -71.5437}
+        - {x: -148.57254, y: -70.5437}
+        - {x: -148.57254, y: -68.5437}
+        - {x: -150.57254, y: -65.5437}
+        - {x: -152.57254, y: -65.5437}
+        - {x: -154.57254, y: -66.5437}
+    - name: StartHelpSpriteList_1
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 4910
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150.14508, y: -64.5437}
+        - {x: -153.14508, y: -67.5437}
+        - {x: -153.14508, y: -70.5437}
+        - {x: -148.14508, y: -72.5437}
+        - {x: -145.14508, y: -72.5437}
+        - {x: -144.14508, y: -70.5437}
+        - {x: -144.14508, y: -69.5437}
+        - {x: -149.14508, y: -64.5437}
+    - name: StartHelpSpriteList_2
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 4910
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -148.71765, y: -63.5437}
+        - {x: -152.71765, y: -66.5437}
+        - {x: -152.71765, y: -70.5437}
+        - {x: -145.71765, y: -74.5437}
+        - {x: -139.71765, y: -74.5437}
+        - {x: -139.71765, y: -68.5437}
+        - {x: -144.71765, y: -63.5437}
+    - name: StartHelpSpriteList_3
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 4910
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -150.29016, y: -70.5437}
+        - {x: -139.29016, y: -77.5437}
+        - {x: -134.29016, y: -77.5437}
+        - {x: -131.29016, y: -75.5437}
+        - {x: -131.29016, y: -71.5437}
+        - {x: -135.29016, y: -64.5437}
+        - {x: -142.29016, y: -62.5437}
+        - {x: -148.29016, y: -62.5437}
+        - {x: -150.29016, y: -66.5437}
+    - name: StartHelpSpriteList_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4209
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146, y: -59.952393}
+        - {x: -152, y: -64.95239}
+        - {x: -152, y: -67.95239}
+        - {x: -150, y: -72.95239}
+        - {x: -133, y: -79.95239}
+        - {x: -127, y: -79.95239}
+        - {x: -125, y: -75.95239}
+        - {x: -125, y: -70.95239}
+        - {x: -142, y: -59.952393}
+    - name: StartHelpSpriteList_5
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 4209
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -145.57254, y: -56.952393}
+        - {x: -148.57254, y: -62.952393}
+        - {x: -148.57254, y: -67.95239}
+        - {x: -147.57254, y: -70.95239}
+        - {x: -123.57254, y: -80.95239}
+        - {x: -112.57254, y: -80.95239}
+        - {x: -112.57254, y: -67.95239}
+        - {x: -135.57254, y: -56.952393}
+    - name: StartHelpSpriteList_6
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 4209
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -132.14508, y: -52.952393}
+        - {x: -138.14508, y: -52.952393}
+        - {x: -146.14508, y: -62.952393}
+        - {x: -146.14508, y: -66.95239}
+        - {x: -144.14508, y: -70.95239}
+        - {x: -108.14508, y: -80.95239}
+        - {x: -101.14508, y: -80.95239}
+        - {x: -98.14508, y: -75.95239}
+        - {x: -98.14508, y: -68.95239}
+        - {x: -108.14508, y: -62.952393}
+    - name: StartHelpSpriteList_7
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 4209
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -144.71765, y: -57.952393}
+        - {x: -144.71765, y: -67.95239}
+        - {x: -105.71765, y: -80.95239}
+        - {x: -83.71765, y: -80.95239}
+        - {x: -83.71765, y: -59.952393}
+        - {x: -126.71765, y: -46.952393}
+        - {x: -135.71765, y: -46.952393}
+        - {x: -138.71765, y: -48.952393}
+    - name: StartHelpSpriteList_8
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 4209
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -140.29016, y: -40.952393}
+        - {x: -141.29016, y: -43.952393}
+        - {x: -141.29016, y: -65.95239}
+        - {x: -91.29016, y: -77.95239}
+        - {x: -68.29016, y: -77.95239}
+        - {x: -66.29016, y: -73.95239}
+        - {x: -66.29016, y: -51.952393}
+        - {x: -116.29016, y: -40.952393}
+    - name: StartHelpSpriteList_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3508
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -134, y: -33.861206}
+        - {x: -142, y: -51.861206}
+        - {x: -142, y: -60.861206}
+        - {x: -141, y: -63.861206}
+        - {x: -83, y: -73.861206}
+        - {x: -52, y: -73.861206}
+        - {x: -52, y: -49.861206}
+        - {x: -114, y: -33.861206}
+    - name: StartHelpSpriteList_10
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 3508
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -98.57254, y: -25.861206}
+        - {x: -127.57254, y: -25.861206}
+        - {x: -131.57254, y: -26.861206}
+        - {x: -138.57254, y: -50.861206}
+        - {x: -138.57254, y: -62.861206}
+        - {x: -86.57254, y: -66.861206}
+        - {x: -38.57254, y: -66.861206}
+        - {x: -32.57254, y: -64.861206}
+        - {x: -31.57254, y: -60.861206}
+        - {x: -31.57254, y: -45.861206}
+        - {x: -38.57254, y: -37.861206}
+    - name: StartHelpSpriteList_11
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 3508
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96.14508, y: -15.861206}
+        - {x: -122.14508, y: -15.861206}
+        - {x: -130.14508, y: -18.861206}
+        - {x: -135.14508, y: -45.861206}
+        - {x: -135.14508, y: -58.861206}
+        - {x: -14.145081, y: -58.861206}
+        - {x: -12.145081, y: -51.861206}
+        - {x: -12.145081, y: -29.861206}
+        - {x: -19.14508, y: -26.861206}
+    - name: StartHelpSpriteList_12
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 3508
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.7176514, y: -10.861206}
+        - {x: -74.71765, y: -6.861206}
+        - {x: -125.71765, y: -6.861206}
+        - {x: -130.71765, y: -13.861206}
+        - {x: -133.71765, y: -32.861206}
+        - {x: -133.71765, y: -53.861206}
+        - {x: 0.28234863, y: -53.861206}
+        - {x: 5.2823486, y: -44.861206}
+        - {x: 6.2823486, y: -38.861206}
+        - {x: 6.2823486, y: -17.861206}
+    - name: StartHelpSpriteList_13
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 3508
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.709839, y: 3.138794}
+        - {x: 11.709839, y: 4.138794}
+        - {x: -123.29016, y: 4.138794}
+        - {x: -125.29016, y: 0.13879395}
+        - {x: -131.29016, y: -39.861206}
+        - {x: -131.29016, y: -48.861206}
+        - {x: -129.29016, y: -49.861206}
+        - {x: -119.29016, y: -49.861206}
+        - {x: -108.29016, y: -43.861206}
+        - {x: -32.29016, y: -42.861206}
+        - {x: 27.709839, y: -35.861206}
+    - name: StartHelpSpriteList_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2807
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127, y: 20.230103}
+        - {x: -133, y: -2.7698975}
+        - {x: -133, y: -46.769897}
+        - {x: -90, y: -46.769897}
+        - {x: 42, y: -29.769897}
+        - {x: 44, y: -21.769897}
+        - {x: 44, y: 17.230103}
+        - {x: 40, y: 20.230103}
+    - name: StartHelpSpriteList_15
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 2807
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.42746, y: 38.230103}
+        - {x: -119.57254, y: 27.230103}
+        - {x: -129.57254, y: 15.230103}
+        - {x: -129.57254, y: -42.769897}
+        - {x: -26.57254, y: -42.769897}
+        - {x: 64.42746, y: -9.769897}
+        - {x: 64.42746, y: 37.230103}
+        - {x: 63.42746, y: 38.230103}
+    - name: StartHelpSpriteList_16
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 2807
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.85492, y: 58.230103}
+        - {x: -123.14508, y: 37.230103}
+        - {x: -127.14508, y: 28.230103}
+        - {x: -127.14508, y: -38.769897}
+        - {x: -104.14508, y: -38.769897}
+        - {x: 76.85492, y: 6.2301025}
+        - {x: 83.85492, y: 10.230103}
+        - {x: 83.85492, y: 48.230103}
+        - {x: 81.85492, y: 58.230103}
+    - name: StartHelpSpriteList_17
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 2807
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.71765, y: 76.2301}
+        - {x: -124.71765, y: 71.2301}
+        - {x: -128.71765, y: 56.230103}
+        - {x: -128.71765, y: -34.769897}
+        - {x: -119.71765, y: -34.769897}
+        - {x: -100.71765, y: -25.769897}
+        - {x: 99.28235, y: 9.230103}
+        - {x: 101.28235, y: 15.230103}
+        - {x: 101.28235, y: 76.2301}
+    - name: StartHelpSpriteList_18
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 2807
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 77.70984, y: 93.2301}
+        - {x: -116.29016, y: 61.230103}
+        - {x: -127.29016, y: 48.230103}
+        - {x: -127.29016, y: -20.769897}
+        - {x: -126.29016, y: -30.769897}
+        - {x: -91.29016, y: -30.769897}
+        - {x: 118.70984, y: 13.230103}
+        - {x: 118.70984, y: 90.2301}
+        - {x: 113.70984, y: 93.2301}
+    - name: StartHelpSpriteList_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2106
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 115, y: 105.32141}
+        - {x: 98, y: 105.32141}
+        - {x: -115, y: 68.32141}
+        - {x: -130, y: 57.32141}
+        - {x: -130, y: -21.678589}
+        - {x: -129, y: -28.678589}
+        - {x: -95, y: -28.678589}
+        - {x: 99, y: 25.321411}
+        - {x: 131, y: 43.32141}
+        - {x: 131, y: 76.32141}
+        - {x: 128, y: 100.32141}
+    - name: StartHelpSpriteList_20
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 2106
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54.42746, y: 108.32141}
+        - {x: -126.57254, y: 67.32141}
+        - {x: -126.57254, y: -8.678589}
+        - {x: -124.57254, y: -27.678589}
+        - {x: -99.57254, y: -27.678589}
+        - {x: 133.42746, y: 32.32141}
+        - {x: 143.42746, y: 45.32141}
+        - {x: 143.42746, y: 97.32141}
+        - {x: 132.42746, y: 108.32141}
+    - name: StartHelpSpriteList_21
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 2106
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 140.85492, y: 93.32141}
+        - {x: 39.85492, y: 93.32141}
+        - {x: -113.14508, y: 67.32141}
+        - {x: -120.14508, y: 53.32141}
+        - {x: -120.14508, y: -29.678589}
+        - {x: -113.14508, y: -29.678589}
+        - {x: -87.14508, y: -16.678589}
+        - {x: 135.85492, y: 25.321411}
+        - {x: 147.85492, y: 31.321411}
+        - {x: 147.85492, y: 77.32141}
+    - name: StartHelpSpriteList_22
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 2106
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -116.71765, y: 52.32141}
+        - {x: -116.71765, y: -36.67859}
+        - {x: -30.717651, y: -36.67859}
+        - {x: 149.28235, y: -28.678589}
+        - {x: 151.28235, y: -16.678589}
+        - {x: 151.28235, y: 48.32141}
+        - {x: 148.28235, y: 52.32141}
+    - name: StartHelpSpriteList_23
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 2106
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.290161, y: 45.32141}
+        - {x: -93.29016, y: 45.32141}
+        - {x: -112.29016, y: 4.321411}
+        - {x: -112.29016, y: -44.67859}
+        - {x: -49.29016, y: -47.67859}
+        - {x: 158.70984, y: -47.67859}
+        - {x: 159.70984, y: -40.67859}
+        - {x: 159.70984, y: 12.321411}
+        - {x: 109.70984, y: 29.321411}
+    - name: StartHelpSpriteList_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1405
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -115, y: 44.41266}
+        - {x: -115, y: -38.58734}
+        - {x: -114, y: -41.58734}
+        - {x: -101, y: -43.58734}
+        - {x: -51, y: -50.58734}
+        - {x: 154, y: -50.58734}
+        - {x: 158, y: -44.58734}
+        - {x: 158, y: 30.412659}
+        - {x: 23, y: 44.41266}
+    - name: StartHelpSpriteList_25
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1405
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.42746, y: 45.41266}
+        - {x: -96.57254, y: 45.41266}
+        - {x: -113.57254, y: -1.5873413}
+        - {x: -113.57254, y: -41.58734}
+        - {x: -89.57254, y: -38.58734}
+        - {x: 70.42746, y: -45.58734}
+        - {x: 147.42746, y: -45.58734}
+        - {x: 157.42746, y: -38.58734}
+        - {x: 158.42746, y: -31.587341}
+        - {x: 158.42746, y: 17.412659}
+    - name: StartHelpSpriteList_26
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1405
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 157.85492, y: -25.587341}
+        - {x: 157.85492, y: 26.412659}
+        - {x: 141.85492, y: 47.41266}
+        - {x: -111.14508, y: 47.41266}
+        - {x: -114.14508, y: -5.5873413}
+        - {x: -114.14508, y: -37.58734}
+        - {x: -112.14508, y: -38.58734}
+        - {x: -98.14508, y: -38.58734}
+        - {x: -86.14508, y: -34.58734}
+        - {x: 38.85492, y: -38.58734}
+        - {x: 143.85492, y: -38.58734}
+    - name: StartHelpSpriteList_27
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 1405
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -111.71765, y: 50.41266}
+        - {x: -115.71765, y: -14.587341}
+        - {x: -115.71765, y: -37.58734}
+        - {x: -24.717651, y: -37.58734}
+        - {x: 141.28235, y: -30.587341}
+        - {x: 154.28235, y: -17.587341}
+        - {x: 154.28235, y: 45.41266}
+        - {x: 152.28235, y: 50.41266}
+    - name: StartHelpSpriteList_28
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 1405
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.29016, y: 52.41266}
+        - {x: -105.29016, y: 45.41266}
+        - {x: -115.29016, y: -21.587341}
+        - {x: -115.29016, y: -35.58734}
+        - {x: 21.709839, y: -35.58734}
+        - {x: 126.70984, y: -26.587341}
+        - {x: 151.70984, y: -16.587341}
+        - {x: 151.70984, y: 38.41266}
+        - {x: 147.70984, y: 52.41266}
+    - name: StartHelpSpriteList_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110, y: 54.003906}
+        - {x: -120, y: 27.003906}
+        - {x: -120, y: -35.996094}
+        - {x: 68, y: -35.996094}
+        - {x: 138, y: -32.996094}
+        - {x: 146, y: -1.9960938}
+        - {x: 146, y: 50.003906}
+        - {x: 140, y: 54.003906}
+    - name: StartHelpSpriteList_30
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 704
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -114.57254, y: 60.003906}
+        - {x: -119.57254, y: 16.003906}
+        - {x: -119.57254, y: -34.996094}
+        - {x: -70.57254, y: -34.996094}
+        - {x: 145.42746, y: -1.9960938}
+        - {x: 145.42746, y: 60.003906}
+    - name: StartHelpSpriteList_31
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 704
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -115.14508, y: 42.003906}
+        - {x: -118.14508, y: -11.996094}
+        - {x: -118.14508, y: -33.996094}
+        - {x: -116.14508, y: -34.996094}
+        - {x: -102.14508, y: -34.996094}
+        - {x: 145.85492, y: -2.9960938}
+        - {x: 145.85492, y: 62.003906}
+        - {x: -29.14508, y: 62.003906}
+        - {x: -98.14508, y: 59.003906}
+    - name: StartHelpSpriteList_32
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 704
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103.71765, y: 53.003906}
+        - {x: -115.71765, y: 52.003906}
+        - {x: -117.71765, y: 6.0039062}
+        - {x: -117.71765, y: -35.996094}
+        - {x: -60.71765, y: -35.996094}
+        - {x: 147.28235, y: -10.996094}
+        - {x: 147.28235, y: 53.003906}
+    - name: StartHelpSpriteList_33
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 704
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -116.29016, y: -12.996094}
+        - {x: -116.29016, y: -35.996094}
+        - {x: -44.29016, y: -35.996094}
+        - {x: 148.70984, y: -9.996094}
+        - {x: 148.70984, y: 53.003906}
+        - {x: -100.29016, y: 53.003906}
+        - {x: -108.29016, y: 40.003906}
+    - name: StartHelpSpriteList_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103, y: 53.095184}
+        - {x: -111, y: 42.095184}
+        - {x: -119, y: 20.095184}
+        - {x: -119, y: -35.904816}
+        - {x: 52, y: -35.904816}
+        - {x: 146, y: -31.904816}
+        - {x: 146, y: 50.095184}
+        - {x: 145, y: 53.095184}
+    - name: StartHelpSpriteList_35
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 3
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 147.42746, y: 46.095184}
+        - {x: 144.42746, y: 53.095184}
+        - {x: -100.57254, y: 53.095184}
+        - {x: -116.57254, y: 41.095184}
+        - {x: -118.57254, y: -12.904816}
+        - {x: -118.57254, y: -35.904816}
+        - {x: -105.57254, y: -35.904816}
+        - {x: -94.57254, y: -30.904816}
+        - {x: -77.57254, y: -19.904816}
+        - {x: 133.42746, y: -10.904816}
+        - {x: 147.42746, y: -2.9048157}
+    - name: StartHelpSpriteList_36
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 3
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 145.85492, y: 53.095184}
+        - {x: -99.14508, y: 53.095184}
+        - {x: -112.14508, y: 40.095184}
+        - {x: -117.14508, y: -28.904816}
+        - {x: -117.14508, y: -35.904816}
+        - {x: -105.14508, y: -35.904816}
+        - {x: -84.14508, y: -27.904816}
+        - {x: 142.85492, y: -9.904816}
+        - {x: 148.85492, y: -3.9048157}
+        - {x: 148.85492, y: 41.095184}
+    - name: StartHelpSpriteList_37
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 3
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -106.71765, y: 53.095184}
+        - {x: -116.71765, y: 52.095184}
+        - {x: -117.71765, y: 44.095184}
+        - {x: -117.71765, y: -35.904816}
+        - {x: 26.282349, y: -35.904816}
+        - {x: 147.28235, y: -12.904816}
+        - {x: 147.28235, y: 45.095184}
+        - {x: 143.28235, y: 53.095184}
+    - name: StartHelpSpriteList_38
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 3
+        width: 1000
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 148.70984, y: 53.095184}
+        - {x: -101.29016, y: 53.095184}
+        - {x: -116.29016, y: 51.095184}
+        - {x: -116.29016, y: -34.904816}
+        - {x: -114.29016, y: -35.904816}
+        - {x: -107.29016, y: -35.904816}
+        - {x: -91.29016, y: -28.904816}
+        - {x: 142.70984, y: -29.904816}
+        - {x: 148.70984, y: -11.904816}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

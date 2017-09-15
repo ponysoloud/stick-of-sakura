@@ -1,0 +1,1484 @@
+fileFormatVersion: 2
+guid: f960ebc8220344fcaa21154b485f65bd
+timeCreated: 1471806779
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DotsButtonSpriteList_0
+    21300002: DotsButtonSpriteList_1
+    21300004: DotsButtonSpriteList_2
+    21300006: DotsButtonSpriteList_3
+    21300008: DotsButtonSpriteList_4
+    21300010: DotsButtonSpriteList_5
+    21300012: DotsButtonSpriteList_6
+    21300014: DotsButtonSpriteList_7
+    21300016: DotsButtonSpriteList_8
+    21300018: DotsButtonSpriteList_9
+    21300020: DotsButtonSpriteList_10
+    21300022: DotsButtonSpriteList_11
+    21300024: DotsButtonSpriteList_12
+    21300026: DotsButtonSpriteList_13
+    21300028: DotsButtonSpriteList_14
+    21300030: DotsButtonSpriteList_15
+    21300032: DotsButtonSpriteList_16
+    21300034: DotsButtonSpriteList_17
+    21300036: DotsButtonSpriteList_18
+    21300038: DotsButtonSpriteList_19
+    21300040: DotsButtonSpriteList_20
+    21300042: DotsButtonSpriteList_21
+    21300044: DotsButtonSpriteList_22
+    21300046: DotsButtonSpriteList_23
+    21300048: DotsButtonSpriteList_24
+    21300050: DotsButtonSpriteList_25
+    21300052: DotsButtonSpriteList_26
+    21300054: DotsButtonSpriteList_27
+    21300056: DotsButtonSpriteList_28
+    21300058: DotsButtonSpriteList_29
+    21300060: DotsButtonSpriteList_30
+    21300062: DotsButtonSpriteList_31
+    21300064: DotsButtonSpriteList_32
+    21300066: DotsButtonSpriteList_33
+    21300068: DotsButtonSpriteList_34
+    21300070: DotsButtonSpriteList_35
+    21300072: DotsButtonSpriteList_36
+    21300074: DotsButtonSpriteList_37
+    21300076: DotsButtonSpriteList_38
+    21300078: DotsButtonSpriteList_39
+    21300080: DotsButtonSpriteList_40
+    21300082: DotsButtonSpriteList_41
+    21300084: DotsButtonSpriteList_42
+    21300086: DotsButtonSpriteList_43
+    21300088: DotsButtonSpriteList_44
+    21300090: DotsButtonSpriteList_45
+    21300092: DotsButtonSpriteList_46
+    21300094: DotsButtonSpriteList_47
+    21300096: DotsButtonSpriteList_48
+    21300098: DotsButtonSpriteList_49
+    21300100: DotsButtonSpriteList_50
+    21300102: DotsButtonSpriteList_51
+    21300104: DotsButtonSpriteList_52
+    21300106: DotsButtonSpriteList_53
+    21300108: DotsButtonSpriteList_54
+    21300110: DotsButtonSpriteList_55
+    21300112: DotsButtonSpriteList_56
+    21300114: DotsButtonSpriteList_57
+    21300116: DotsButtonSpriteList_58
+    21300118: DotsButtonSpriteList_59
+    21300120: DotsButtonSpriteList_60
+    21300122: DotsButtonSpriteList_61
+    21300124: DotsButtonSpriteList_62
+    21300126: DotsButtonSpriteList_63
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: DotsButtonSpriteList_0
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 733
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 3}
+        - {x: -3, y: 2}
+        - {x: -3, y: -2}
+        - {x: -2, y: -4}
+        - {x: 2, y: -4}
+        - {x: 4, y: -2}
+        - {x: 4, y: 1}
+        - {x: 2, y: 3}
+    - name: DotsButtonSpriteList_1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 733
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 5}
+        - {x: -4, y: 5}
+        - {x: -5, y: 4}
+        - {x: -5, y: -3}
+        - {x: -3, y: -6}
+        - {x: 2, y: -6}
+        - {x: 6, y: -2}
+        - {x: 6, y: 3}
+    - name: DotsButtonSpriteList_2
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 733
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 6}
+        - {x: -6, y: -5}
+        - {x: -5, y: -7}
+        - {x: 3, y: -7}
+        - {x: 7, y: -5}
+        - {x: 7, y: 2}
+        - {x: 6, y: 6}
+    - name: DotsButtonSpriteList_3
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 733
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -5}
+        - {x: -4, y: -9}
+        - {x: 7, y: -9}
+        - {x: 9, y: -8}
+        - {x: 9, y: 3}
+        - {x: 7, y: 8}
+        - {x: -3, y: 8}
+        - {x: -8, y: 3}
+    - name: DotsButtonSpriteList_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 8}
+        - {x: 4, y: 9}
+        - {x: -5, y: 9}
+        - {x: -9, y: 5}
+        - {x: -9, y: -8}
+        - {x: -6, y: -10}
+        - {x: 8, y: -10}
+        - {x: 10, y: -7}
+        - {x: 10, y: 5}
+    - name: DotsButtonSpriteList_5
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 672
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 11}
+        - {x: -11, y: 7}
+        - {x: -11, y: -10}
+        - {x: -8, y: -12}
+        - {x: 12, y: -12}
+        - {x: 12, y: 11}
+    - name: DotsButtonSpriteList_6
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 672
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -12, y: 6}
+        - {x: -12, y: -8}
+        - {x: -9, y: -13}
+        - {x: 7, y: -13}
+        - {x: 13, y: -11}
+        - {x: 13, y: 6}
+        - {x: 7, y: 12}
+    - name: DotsButtonSpriteList_7
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 672
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -10}
+        - {x: -8, y: -15}
+        - {x: 9, y: -15}
+        - {x: 15, y: -12}
+        - {x: 15, y: 6}
+        - {x: 11, y: 14}
+        - {x: -5, y: 14}
+        - {x: -14, y: 8}
+    - name: DotsButtonSpriteList_8
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 672
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 15}
+        - {x: -15, y: 7}
+        - {x: -15, y: -16}
+        - {x: 12, y: -16}
+        - {x: 16, y: -15}
+        - {x: 16, y: 8}
+        - {x: 9, y: 15}
+    - name: DotsButtonSpriteList_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 611
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -17}
+        - {x: 16, y: -17}
+        - {x: 17, y: -11}
+        - {x: 17, y: 13}
+        - {x: 15, y: 16}
+    - name: DotsButtonSpriteList_10
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 611
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 18}
+        - {x: -10, y: 18}
+        - {x: -18, y: 11}
+        - {x: -18, y: -8}
+        - {x: -14, y: -18}
+        - {x: -8, y: -19}
+        - {x: 12, y: -19}
+        - {x: 19, y: -13}
+        - {x: 19, y: 7}
+        - {x: 15, y: 17}
+    - name: DotsButtonSpriteList_11
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 611
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 19}
+        - {x: -19, y: 15}
+        - {x: -19, y: -17}
+        - {x: -14, y: -20}
+        - {x: 9, y: -20}
+        - {x: 20, y: -15}
+        - {x: 20, y: 9}
+        - {x: 10, y: 19}
+    - name: DotsButtonSpriteList_12
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 611
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 20}
+        - {x: -21, y: 16}
+        - {x: -21, y: -13}
+        - {x: -15, y: -21}
+        - {x: 12, y: -21}
+        - {x: 22, y: -12}
+        - {x: 22, y: 15}
+        - {x: 10, y: 20}
+    - name: DotsButtonSpriteList_13
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 611
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 19}
+        - {x: 8, y: 21}
+        - {x: -18, y: 21}
+        - {x: -21, y: 20}
+        - {x: -21, y: -15}
+        - {x: -19, y: -22}
+        - {x: 10, y: -22}
+        - {x: 20, y: -14}
+        - {x: 22, y: -8}
+        - {x: 22, y: 7}
+    - name: DotsButtonSpriteList_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 550
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 22}
+        - {x: -23, y: 16}
+        - {x: -23, y: -22}
+        - {x: -18, y: -23}
+        - {x: 12, y: -23}
+        - {x: 24, y: -13}
+        - {x: 24, y: 9}
+        - {x: 17, y: 22}
+    - name: DotsButtonSpriteList_15
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 550
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 23}
+        - {x: -18, y: 23}
+        - {x: -24, y: 17}
+        - {x: -24, y: -10}
+        - {x: -19, y: -24}
+        - {x: 17, y: -24}
+        - {x: 25, y: -11}
+        - {x: 25, y: 17}
+    - name: DotsButtonSpriteList_16
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 550
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 23}
+        - {x: -24, y: 10}
+        - {x: -24, y: -20}
+        - {x: -20, y: -24}
+        - {x: 15, y: -24}
+        - {x: 25, y: -20}
+        - {x: 25, y: 11}
+        - {x: 13, y: 23}
+    - name: DotsButtonSpriteList_17
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 550
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 24}
+        - {x: -24, y: 12}
+        - {x: -24, y: -22}
+        - {x: -10, y: -25}
+        - {x: 16, y: -25}
+        - {x: 25, y: -13}
+        - {x: 25, y: 13}
+        - {x: 11, y: 24}
+    - name: DotsButtonSpriteList_18
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 550
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -24, y: 19}
+        - {x: -24, y: -25}
+        - {x: 11, y: -25}
+        - {x: 25, y: -20}
+        - {x: 25, y: 13}
+        - {x: 13, y: 24}
+    - name: DotsButtonSpriteList_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 489
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 24}
+        - {x: -24, y: 20}
+        - {x: -24, y: -19}
+        - {x: -11, y: -25}
+        - {x: 13, y: -25}
+        - {x: 25, y: -15}
+        - {x: 25, y: 15}
+        - {x: 16, y: 24}
+    - name: DotsButtonSpriteList_20
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 489
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -24, y: 19}
+        - {x: -24, y: -25}
+        - {x: 11, y: -25}
+        - {x: 25, y: -20}
+        - {x: 25, y: 13}
+        - {x: 13, y: 24}
+    - name: DotsButtonSpriteList_21
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 489
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 24}
+        - {x: -12, y: 24}
+        - {x: -24, y: 13}
+        - {x: -24, y: -11}
+        - {x: -13, y: -25}
+        - {x: 20, y: -25}
+        - {x: 25, y: -14}
+        - {x: 25, y: 18}
+        - {x: 13, y: 23}
+    - name: DotsButtonSpriteList_22
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 489
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 24}
+        - {x: -18, y: 24}
+        - {x: -24, y: 13}
+        - {x: -24, y: -19}
+        - {x: -15, y: -25}
+        - {x: 14, y: -25}
+        - {x: 24, y: -15}
+        - {x: 25, y: -10}
+        - {x: 25, y: 11}
+    - name: DotsButtonSpriteList_23
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 489
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 23}
+        - {x: -24, y: 11}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 25, y: -19}
+        - {x: 25, y: 7}
+        - {x: 22, y: 23}
+    - name: DotsButtonSpriteList_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 428
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 23}
+        - {x: -18, y: 23}
+        - {x: -24, y: 17}
+        - {x: -24, y: -10}
+        - {x: -19, y: -24}
+        - {x: 17, y: -24}
+        - {x: 25, y: -11}
+        - {x: 25, y: 17}
+    - name: DotsButtonSpriteList_25
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 428
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 22}
+        - {x: -13, y: 21}
+        - {x: -23, y: 9}
+        - {x: -23, y: -20}
+        - {x: -22, y: -23}
+        - {x: 24, y: -23}
+        - {x: 24, y: 13}
+        - {x: 11, y: 22}
+    - name: DotsButtonSpriteList_26
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 428
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 21}
+        - {x: -16, y: 21}
+        - {x: -21, y: 9}
+        - {x: -21, y: -15}
+        - {x: -13, y: -22}
+        - {x: 13, y: -22}
+        - {x: 22, y: -11}
+        - {x: 22, y: 12}
+    - name: DotsButtonSpriteList_27
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 428
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 20}
+        - {x: -21, y: 9}
+        - {x: -21, y: -13}
+        - {x: -12, y: -20}
+        - {x: -7, y: -21}
+        - {x: 13, y: -21}
+        - {x: 22, y: -16}
+        - {x: 22, y: 15}
+        - {x: 10, y: 20}
+    - name: DotsButtonSpriteList_28
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 428
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 20}
+        - {x: -20, y: 18}
+        - {x: -20, y: -14}
+        - {x: -8, y: -21}
+        - {x: 17, y: -21}
+        - {x: 21, y: -11}
+        - {x: 21, y: 17}
+        - {x: 18, y: 20}
+    - name: DotsButtonSpriteList_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 367
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 19}
+        - {x: -19, y: 11}
+        - {x: -19, y: -14}
+        - {x: -13, y: -20}
+        - {x: 10, y: -20}
+        - {x: 20, y: -13}
+        - {x: 20, y: 13}
+        - {x: 10, y: 19}
+    - name: DotsButtonSpriteList_30
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 367
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 18}
+        - {x: -18, y: 14}
+        - {x: -18, y: -18}
+        - {x: -13, y: -19}
+        - {x: 16, y: -19}
+        - {x: 19, y: -10}
+        - {x: 19, y: 12}
+        - {x: 12, y: 18}
+    - name: DotsButtonSpriteList_31
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 367
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 18}
+        - {x: -18, y: -9}
+        - {x: -14, y: -18}
+        - {x: -12, y: -19}
+        - {x: 17, y: -19}
+        - {x: 19, y: -10}
+        - {x: 19, y: 18}
+    - name: DotsButtonSpriteList_32
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 367
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 17}
+        - {x: -18, y: 8}
+        - {x: -18, y: -11}
+        - {x: -7, y: -18}
+        - {x: 12, y: -18}
+        - {x: 19, y: -7}
+        - {x: 19, y: 14}
+        - {x: 14, y: 17}
+    - name: DotsButtonSpriteList_33
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 367
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 17}
+        - {x: -11, y: 15}
+        - {x: -18, y: 7}
+        - {x: -18, y: -14}
+        - {x: -17, y: -18}
+        - {x: 12, y: -18}
+        - {x: 19, y: -17}
+        - {x: 19, y: 8}
+        - {x: 10, y: 17}
+    - name: DotsButtonSpriteList_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 17}
+        - {x: -6, y: 17}
+        - {x: -15, y: 14}
+        - {x: -18, y: 5}
+        - {x: -18, y: -2}
+        - {x: -16, y: -10}
+        - {x: -13, y: -15}
+        - {x: -3, y: -18}
+        - {x: 13, y: -18}
+        - {x: 18, y: -17}
+        - {x: 19, y: -12}
+        - {x: 19, y: 14}
+    - name: DotsButtonSpriteList_35
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 306
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 17}
+        - {x: -18, y: 5}
+        - {x: -18, y: -14}
+        - {x: -7, y: -18}
+        - {x: 14, y: -18}
+        - {x: 19, y: -9}
+        - {x: 19, y: 13}
+        - {x: 9, y: 17}
+    - name: DotsButtonSpriteList_36
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 306
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 17}
+        - {x: -6, y: 17}
+        - {x: -15, y: 14}
+        - {x: -18, y: 5}
+        - {x: -18, y: -2}
+        - {x: -16, y: -10}
+        - {x: -13, y: -15}
+        - {x: -3, y: -18}
+        - {x: 13, y: -18}
+        - {x: 18, y: -17}
+        - {x: 19, y: -12}
+        - {x: 19, y: 14}
+    - name: DotsButtonSpriteList_37
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 306
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 17}
+        - {x: -18, y: 5}
+        - {x: -18, y: -14}
+        - {x: -7, y: -18}
+        - {x: 14, y: -18}
+        - {x: 19, y: -9}
+        - {x: 19, y: 13}
+        - {x: 9, y: 17}
+    - name: DotsButtonSpriteList_38
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 306
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 17}
+        - {x: -18, y: 5}
+        - {x: -18, y: -14}
+        - {x: -7, y: -18}
+        - {x: 14, y: -18}
+        - {x: 19, y: -9}
+        - {x: 19, y: 13}
+        - {x: 9, y: 17}
+    - name: DotsButtonSpriteList_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 17}
+        - {x: -17, y: 8}
+        - {x: -18, y: 7}
+        - {x: -18, y: -11}
+        - {x: -9, y: -18}
+        - {x: 16, y: -18}
+        - {x: 19, y: -14}
+        - {x: 19, y: 15}
+        - {x: 15, y: 17}
+    - name: DotsButtonSpriteList_40
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 245
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 17}
+        - {x: -10, y: 16}
+        - {x: -18, y: 8}
+        - {x: -18, y: -6}
+        - {x: -17, y: -10}
+        - {x: -12, y: -18}
+        - {x: 12, y: -18}
+        - {x: 19, y: -15}
+        - {x: 19, y: 8}
+        - {x: 9, y: 17}
+    - name: DotsButtonSpriteList_41
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 245
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 10}
+        - {x: -19, y: -9}
+        - {x: -14, y: -18}
+        - {x: 13, y: -18}
+        - {x: 20, y: -14}
+        - {x: 20, y: 10}
+        - {x: 9, y: 17}
+        - {x: -5, y: 17}
+        - {x: -11, y: 16}
+    - name: DotsButtonSpriteList_42
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 245
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 17}
+        - {x: -15, y: 16}
+        - {x: -21, y: 10}
+        - {x: -21, y: -10}
+        - {x: -18, y: -18}
+        - {x: 19, y: -18}
+        - {x: 22, y: -9}
+        - {x: 22, y: 9}
+        - {x: 14, y: 17}
+    - name: DotsButtonSpriteList_43
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 245
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 17}
+        - {x: -23, y: -5}
+        - {x: -19, y: -16}
+        - {x: -10, y: -18}
+        - {x: 15, y: -18}
+        - {x: 24, y: -8}
+        - {x: 24, y: 17}
+    - name: DotsButtonSpriteList_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 17}
+        - {x: -24, y: 7}
+        - {x: -24, y: -7}
+        - {x: -21, y: -17}
+        - {x: -12, y: -18}
+        - {x: 16, y: -18}
+        - {x: 25, y: -10}
+        - {x: 25, y: 6}
+        - {x: 23, y: 17}
+    - name: DotsButtonSpriteList_45
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 184
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 17}
+        - {x: -26, y: 12}
+        - {x: -27, y: 7}
+        - {x: -27, y: -13}
+        - {x: -21, y: -18}
+        - {x: 23, y: -18}
+        - {x: 28, y: -17}
+        - {x: 28, y: 16}
+        - {x: 23, y: 17}
+    - name: DotsButtonSpriteList_46
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 184
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 17}
+        - {x: -28, y: 11}
+        - {x: -29, y: 4}
+        - {x: -29, y: -8}
+        - {x: -22, y: -16}
+        - {x: -20, y: -18}
+        - {x: 19, y: -18}
+        - {x: 30, y: -16}
+        - {x: 30, y: 10}
+        - {x: 21, y: 17}
+    - name: DotsButtonSpriteList_47
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 184
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 17}
+        - {x: -32, y: 12}
+        - {x: -32, y: -9}
+        - {x: -29, y: -18}
+        - {x: 23, y: -18}
+        - {x: 33, y: -12}
+        - {x: 33, y: 6}
+        - {x: 29, y: 17}
+    - name: DotsButtonSpriteList_48
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 184
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 16}
+        - {x: -34, y: 7}
+        - {x: -34, y: -16}
+        - {x: -27, y: -17}
+        - {x: 34, y: -17}
+        - {x: 35, y: -15}
+        - {x: 35, y: 12}
+        - {x: 28, y: 16}
+    - name: DotsButtonSpriteList_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 16}
+        - {x: -37, y: 6}
+        - {x: -37, y: -10}
+        - {x: -30, y: -17}
+        - {x: 34, y: -17}
+        - {x: 38, y: -8}
+        - {x: 38, y: 8}
+        - {x: 27, y: 16}
+    - name: DotsButtonSpriteList_50
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 123
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 16}
+        - {x: -40, y: 9}
+        - {x: -40, y: -10}
+        - {x: -30, y: -17}
+        - {x: 35, y: -17}
+        - {x: 41, y: -7}
+        - {x: 41, y: 8}
+        - {x: 29, y: 16}
+    - name: DotsButtonSpriteList_51
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 123
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 16}
+        - {x: -43, y: 12}
+        - {x: -43, y: -10}
+        - {x: -40, y: -17}
+        - {x: 44, y: -17}
+        - {x: 44, y: 16}
+    - name: DotsButtonSpriteList_52
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 123
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 16}
+        - {x: -46, y: 9}
+        - {x: -46, y: -13}
+        - {x: -44, y: -17}
+        - {x: 42, y: -17}
+        - {x: 47, y: -11}
+        - {x: 47, y: 11}
+        - {x: 45, y: 16}
+    - name: DotsButtonSpriteList_53
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 123
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 16}
+        - {x: -49, y: -12}
+        - {x: -47, y: -17}
+        - {x: 48, y: -17}
+        - {x: 50, y: -16}
+        - {x: 50, y: 16}
+    - name: DotsButtonSpriteList_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: 16}
+        - {x: -45, y: 16}
+        - {x: -52, y: 12}
+        - {x: -52, y: -9}
+        - {x: -49, y: -17}
+        - {x: 48, y: -17}
+        - {x: 53, y: -6}
+        - {x: 53, y: 9}
+    - name: DotsButtonSpriteList_55
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 62
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 16}
+        - {x: -54, y: 7}
+        - {x: -54, y: -17}
+        - {x: 55, y: -17}
+        - {x: 55, y: 16}
+    - name: DotsButtonSpriteList_56
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 62
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 16}
+        - {x: -57, y: 10}
+        - {x: -57, y: -10}
+        - {x: -49, y: -17}
+        - {x: -29, y: -17}
+        - {x: -22, y: -6}
+        - {x: -22, y: 9}
+        - {x: -35, y: 16}
+      - - {x: -9, y: 16}
+        - {x: -11, y: 15}
+        - {x: -18, y: 7}
+        - {x: -18, y: -8}
+        - {x: -15, y: -17}
+        - {x: 13, y: -17}
+        - {x: 19, y: -11}
+        - {x: 19, y: 7}
+        - {x: 13, y: 16}
+      - - {x: 47, y: 16}
+        - {x: 35, y: 16}
+        - {x: 23, y: 6}
+        - {x: 23, y: -8}
+        - {x: 33, y: -17}
+        - {x: 49, y: -17}
+        - {x: 58, y: -13}
+        - {x: 58, y: 9}
+        - {x: 50, y: 15}
+    - name: DotsButtonSpriteList_57
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 62
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 16}
+        - {x: -59, y: 9}
+        - {x: -59, y: -9}
+        - {x: -58, y: -12}
+        - {x: -49, y: -17}
+        - {x: -38, y: -17}
+        - {x: -32, y: -15}
+        - {x: -25, y: -7}
+        - {x: -25, y: 4}
+        - {x: -29, y: 16}
+      - - {x: -17, y: 16}
+        - {x: -17, y: -14}
+        - {x: -16, y: -17}
+        - {x: 18, y: -17}
+        - {x: 18, y: 13}
+        - {x: 8, y: 16}
+      - - {x: 32, y: 16}
+        - {x: 26, y: 8}
+        - {x: 26, y: -5}
+        - {x: 32, y: -16}
+        - {x: 33, y: -17}
+        - {x: 51, y: -17}
+        - {x: 60, y: -11}
+        - {x: 60, y: 13}
+        - {x: 50, y: 16}
+    - name: DotsButtonSpriteList_58
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 62
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 16}
+        - {x: -61, y: 12}
+        - {x: -61, y: -15}
+        - {x: -57, y: -17}
+        - {x: -31, y: -17}
+        - {x: -28, y: -9}
+        - {x: -28, y: 10}
+        - {x: -35, y: 16}
+      - - {x: 9, y: 16}
+        - {x: -9, y: 16}
+        - {x: -16, y: 10}
+        - {x: -16, y: -14}
+        - {x: -7, y: -17}
+        - {x: 11, y: -17}
+        - {x: 17, y: -10}
+        - {x: 17, y: 12}
+      - - {x: 59, y: 16}
+        - {x: 35, y: 16}
+        - {x: 29, y: 10}
+        - {x: 29, y: -8}
+        - {x: 32, y: -17}
+        - {x: 52, y: -17}
+        - {x: 56, y: -15}
+        - {x: 62, y: -10}
+        - {x: 62, y: 7}
+    - name: DotsButtonSpriteList_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 16}
+        - {x: -58, y: 16}
+        - {x: -63, y: 10}
+        - {x: -63, y: -8}
+        - {x: -61, y: -17}
+        - {x: -40, y: -17}
+        - {x: -30, y: -11}
+        - {x: -30, y: 7}
+      - - {x: -13, y: 16}
+        - {x: -16, y: 11}
+        - {x: -16, y: -7}
+        - {x: -13, y: -17}
+        - {x: 9, y: -17}
+        - {x: 17, y: -11}
+        - {x: 17, y: 12}
+        - {x: 16, y: 16}
+      - - {x: 58, y: 16}
+        - {x: 40, y: 16}
+        - {x: 31, y: 11}
+        - {x: 31, y: -13}
+        - {x: 33, y: -17}
+        - {x: 57, y: -17}
+        - {x: 64, y: -7}
+        - {x: 64, y: 5}
+        - {x: 63, y: 10}
+    - name: DotsButtonSpriteList_60
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: 16}
+        - {x: -65, y: 10}
+        - {x: -65, y: -10}
+        - {x: -55, y: -17}
+        - {x: -33, y: -17}
+        - {x: -31, y: -9}
+        - {x: -31, y: 12}
+        - {x: -38, y: 16}
+      - - {x: 17, y: 9}
+        - {x: 9, y: 16}
+        - {x: -13, y: 16}
+        - {x: -16, y: 8}
+        - {x: -16, y: -11}
+        - {x: -9, y: -16}
+        - {x: -3, y: -17}
+        - {x: 6, y: -17}
+        - {x: 10, y: -15}
+        - {x: 15, y: -10}
+        - {x: 17, y: -5}
+      - - {x: 59, y: 16}
+        - {x: 41, y: 16}
+        - {x: 32, y: 8}
+        - {x: 32, y: -15}
+        - {x: 38, y: -17}
+        - {x: 62, y: -17}
+        - {x: 64, y: -12}
+        - {x: 65, y: -9}
+        - {x: 65, y: 8}
+    - name: DotsButtonSpriteList_61
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: 16}
+        - {x: -65, y: 12}
+        - {x: -65, y: -13}
+        - {x: -64, y: -17}
+        - {x: -35, y: -17}
+        - {x: -32, y: -7}
+        - {x: -32, y: 10}
+        - {x: -37, y: 16}
+      - - {x: -13, y: 16}
+        - {x: -16, y: 8}
+        - {x: -16, y: -16}
+        - {x: -12, y: -17}
+        - {x: 12, y: -17}
+        - {x: 17, y: -11}
+        - {x: 17, y: 9}
+        - {x: 7, y: 16}
+      - - {x: 40, y: 16}
+        - {x: 33, y: 12}
+        - {x: 33, y: -11}
+        - {x: 38, y: -17}
+        - {x: 58, y: -17}
+        - {x: 65, y: -14}
+        - {x: 65, y: 12}
+        - {x: 63, y: 16}
+    - name: DotsButtonSpriteList_62
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: 16}
+        - {x: -65, y: 10}
+        - {x: -65, y: -11}
+        - {x: -60, y: -17}
+        - {x: -37, y: -17}
+        - {x: -32, y: -16}
+        - {x: -32, y: 14}
+        - {x: -38, y: 16}
+      - - {x: -10, y: 16}
+        - {x: -16, y: 13}
+        - {x: -16, y: -16}
+        - {x: -15, y: -17}
+        - {x: 16, y: -17}
+        - {x: 17, y: -12}
+        - {x: 17, y: 13}
+        - {x: 15, y: 16}
+      - - {x: 41, y: 16}
+        - {x: 33, y: 13}
+        - {x: 33, y: -15}
+        - {x: 41, y: -17}
+        - {x: 61, y: -17}
+        - {x: 65, y: -12}
+        - {x: 65, y: 11}
+        - {x: 62, y: 16}
+    - name: DotsButtonSpriteList_63
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: 16}
+        - {x: -65, y: 14}
+        - {x: -65, y: -12}
+        - {x: -63, y: -17}
+        - {x: -41, y: -17}
+        - {x: -33, y: -10}
+        - {x: -33, y: 14}
+        - {x: -41, y: 16}
+      - - {x: 12, y: 15}
+        - {x: 9, y: 16}
+        - {x: -8, y: 16}
+        - {x: -17, y: 9}
+        - {x: -17, y: -14}
+        - {x: -9, y: -17}
+        - {x: 13, y: -17}
+        - {x: 17, y: -12}
+        - {x: 18, y: -8}
+        - {x: 18, y: 8}
+      - - {x: 36, y: 16}
+        - {x: 34, y: 10}
+        - {x: 34, y: -11}
+        - {x: 42, y: -17}
+        - {x: 64, y: -17}
+        - {x: 65, y: -13}
+        - {x: 65, y: 14}
+        - {x: 61, y: 16}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

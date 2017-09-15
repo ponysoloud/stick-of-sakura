@@ -1,0 +1,1791 @@
+fileFormatVersion: 2
+guid: 9b54c5a99810d40fc91e5ecb06ca1f48
+timeCreated: 1466959704
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: StartSpriteList_0
+    21300002: StartSpriteList_1
+    21300004: StartSpriteList_2
+    21300006: StartSpriteList_3
+    21300008: StartSpriteList_4
+    21300010: StartSpriteList_5
+    21300012: StartSpriteList_6
+    21300014: StartSpriteList_7
+    21300016: StartSpriteList_8
+    21300018: StartSpriteList_9
+    21300020: StartSpriteList_10
+    21300022: StartSpriteList_11
+    21300024: StartSpriteList_12
+    21300026: StartSpriteList_13
+    21300028: StartSpriteList_14
+    21300030: StartSpriteList_15
+    21300032: StartSpriteList_16
+    21300034: StartSpriteList_17
+    21300036: StartSpriteList_18
+    21300038: StartSpriteList_19
+    21300040: StartSpriteList_20
+    21300042: StartSpriteList_21
+    21300044: StartSpriteList_22
+    21300046: StartSpriteList_23
+    21300048: StartSpriteList_24
+    21300050: StartSpriteList_25
+    21300052: StartSpriteList_26
+    21300054: StartSpriteList_27
+    21300056: StartSpriteList_28
+    21300058: StartSpriteList_29
+    21300060: StartSpriteList_30
+    21300062: StartSpriteList_31
+    21300064: StartSpriteList_32
+    21300066: StartSpriteList_33
+    21300068: StartSpriteList_34
+    21300070: StartSpriteList_35
+    21300072: StartSpriteList_36
+    21300074: StartSpriteList_37
+    21300076: StartSpriteList_38
+    21300078: StartSpriteList_39
+    21300080: StartSpriteList_40
+    21300082: StartSpriteList_41
+    21300084: StartSpriteList_42
+    21300086: StartSpriteList_43
+    21300088: StartSpriteList_44
+    21300090: StartSpriteList_45
+    21300092: StartSpriteList_46
+    21300094: StartSpriteList_47
+    21300096: StartSpriteList_48
+    21300098: StartSpriteList_49
+    21300100: StartSpriteList_50
+    21300102: StartSpriteList_51
+    21300104: StartSpriteList_52
+    21300106: StartSpriteList_53
+    21300108: StartSpriteList_54
+    21300110: StartSpriteList_55
+    21300112: StartSpriteList_56
+    21300114: StartSpriteList_57
+    21300116: StartSpriteList_58
+    21300118: StartSpriteList_59
+    21300120: StartSpriteList_60
+    21300122: StartSpriteList_61
+    21300124: StartSpriteList_62
+    21300126: StartSpriteList_63
+    21300128: StartSpriteList_64
+    21300130: StartSpriteList_65
+    21300132: StartSpriteList_66
+    21300134: StartSpriteList_67
+    21300136: StartSpriteList_68
+    21300138: StartSpriteList_69
+    21300140: StartSpriteList_70
+    21300142: StartSpriteList_71
+    21300144: StartSpriteList_72
+    21300146: StartSpriteList_73
+    21300148: StartSpriteList_74
+    21300150: StartSpriteList_75
+    21300152: StartSpriteList_76
+    21300154: StartSpriteList_77
+    21300156: StartSpriteList_78
+    21300158: StartSpriteList_79
+    21300160: StartSpriteList_80
+    21300162: StartSpriteList_81
+    21300164: StartSpriteList_82
+    21300166: StartSpriteList_83
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: StartSpriteList_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7010
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 4.796875}
+        - {x: -4, y: 1.796875}
+        - {x: -4, y: -1.203125}
+        - {x: -1, y: -4.203125}
+        - {x: 1, y: -4.203125}
+        - {x: 4, y: -1.203125}
+        - {x: 4, y: 1.796875}
+        - {x: 1, y: 4.796875}
+    - name: StartSpriteList_1
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 7010
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.7109375, y: 1.796875}
+        - {x: -3.7109375, y: -1.203125}
+        - {x: 0.2890625, y: -5.203125}
+        - {x: 5.2890625, y: -3.203125}
+        - {x: 6.2890625, y: 0.796875}
+        - {x: 3.2890625, y: 4.796875}
+        - {x: -0.7109375, y: 4.796875}
+    - name: StartSpriteList_2
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 7010
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.421875, y: 2.796875}
+        - {x: -4.421875, y: -3.203125}
+        - {x: -0.421875, y: -6.203125}
+        - {x: 2.578125, y: -6.203125}
+        - {x: 6.578125, y: -3.203125}
+        - {x: 6.578125, y: 2.796875}
+        - {x: 3.578125, y: 5.796875}
+        - {x: -1.421875, y: 5.796875}
+    - name: StartSpriteList_3
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 7010
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.6328125, y: 6.796875}
+        - {x: -6.6328125, y: 2.796875}
+        - {x: -6.6328125, y: -5.203125}
+        - {x: -1.6328125, y: -7.203125}
+        - {x: 4.3671875, y: -7.203125}
+        - {x: 7.3671875, y: -5.203125}
+        - {x: 7.3671875, y: 2.796875}
+        - {x: 6.3671875, y: 6.796875}
+    - name: StartSpriteList_4
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 7010
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.15625, y: 7.796875}
+        - {x: -5.84375, y: 7.796875}
+        - {x: -7.84375, y: 3.796875}
+        - {x: -7.84375, y: -5.203125}
+        - {x: -3.84375, y: -8.203125}
+        - {x: 3.15625, y: -8.203125}
+        - {x: 8.15625, y: -4.203125}
+        - {x: 8.15625, y: 3.796875}
+    - name: StartSpriteList_5
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 7010
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5546875, y: 9.796875}
+        - {x: -8.5546875, y: 5.796875}
+        - {x: -8.5546875, y: -6.203125}
+        - {x: -5.5546875, y: -10.203125}
+        - {x: 4.4453125, y: -10.203125}
+        - {x: 10.4453125, y: -7.203125}
+        - {x: 10.4453125, y: 5.796875}
+        - {x: 8.4453125, y: 9.796875}
+    - name: StartSpriteList_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6509
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 11.54834}
+        - {x: -11, y: 10.54834}
+        - {x: -11, y: -8.45166}
+        - {x: -10, y: -11.45166}
+        - {x: 9, y: -11.45166}
+        - {x: 11, y: -5.45166}
+        - {x: 11, y: 8.54834}
+        - {x: 7, y: 11.54834}
+    - name: StartSpriteList_7
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 6509
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.7109375, y: 13.54834}
+        - {x: -12.7109375, y: 11.54834}
+        - {x: -12.7109375, y: -8.45166}
+        - {x: -11.7109375, y: -13.45166}
+        - {x: 7.2890625, y: -13.45166}
+        - {x: 14.2890625, y: -6.45166}
+        - {x: 14.2890625, y: 13.54834}
+    - name: StartSpriteList_8
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 6509
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.578125, y: 15.54834}
+        - {x: -13.421875, y: 15.54834}
+        - {x: -14.421875, y: 14.54834}
+        - {x: -14.421875, y: -14.45166}
+        - {x: 12.578125, y: -14.45166}
+        - {x: 15.578125, y: -9.45166}
+        - {x: 16.578125, y: -5.45166}
+        - {x: 16.578125, y: 10.54834}
+    - name: StartSpriteList_9
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 6509
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.6328125, y: 18.54834}
+        - {x: -17.632812, y: 11.54834}
+        - {x: -17.632812, y: -10.45166}
+        - {x: -14.6328125, y: -16.45166}
+        - {x: 10.3671875, y: -16.45166}
+        - {x: 18.367188, y: -10.45166}
+        - {x: 18.367188, y: 13.54834}
+        - {x: 5.3671875, y: 18.54834}
+    - name: StartSpriteList_10
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 6509
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.84375, y: 22.54834}
+        - {x: -21.84375, y: 8.54834}
+        - {x: -21.84375, y: -16.45166}
+        - {x: -18.84375, y: -18.45166}
+        - {x: 16.15625, y: -18.45166}
+        - {x: 20.15625, y: -12.45166}
+        - {x: 20.15625, y: 4.54834}
+        - {x: 9.15625, y: 22.54834}
+    - name: StartSpriteList_11
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 6509
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.4453125, y: 25.54834}
+        - {x: -5.5546875, y: 25.54834}
+        - {x: -24.554688, y: 14.54834}
+        - {x: -24.554688, y: -14.45166}
+        - {x: -13.5546875, y: -20.45166}
+        - {x: 17.445312, y: -20.45166}
+        - {x: 22.445312, y: -14.45166}
+        - {x: 22.445312, y: 5.54834}
+        - {x: 18.445312, y: 18.54834}
+    - name: StartSpriteList_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6008
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 29.799805}
+        - {x: -30, y: 13.799805}
+        - {x: -30, y: -2.2001953}
+        - {x: -27, y: -9.200195}
+        - {x: -15, y: -21.200195}
+        - {x: 10, y: -21.200195}
+        - {x: 23, y: -17.200195}
+        - {x: 23, y: 8.799805}
+        - {x: 14, y: 29.799805}
+    - name: StartSpriteList_13
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 6008
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.289062, y: 31.799805}
+        - {x: -26.710938, y: 31.799805}
+        - {x: -31.710938, y: 20.799805}
+        - {x: -31.710938, y: -12.200195}
+        - {x: -19.710938, y: -23.200195}
+        - {x: 20.289062, y: -23.200195}
+        - {x: 24.289062, y: -18.200195}
+        - {x: 24.289062, y: 26.799805}
+    - name: StartSpriteList_14
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 6008
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.421875, y: 32.799805}
+        - {x: -29.421875, y: 31.799805}
+        - {x: -33.421875, y: 28.799805}
+        - {x: -33.421875, y: -5.2001953}
+        - {x: -23.421875, y: -27.200195}
+        - {x: 21.578125, y: -27.200195}
+        - {x: 30.578125, y: -0.20019531}
+        - {x: 30.578125, y: 30.799805}
+        - {x: 27.578125, y: 32.799805}
+    - name: StartSpriteList_15
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 6008
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.367188, y: 38.799805}
+        - {x: -29.632812, y: 38.799805}
+        - {x: -34.632812, y: 32.799805}
+        - {x: -34.632812, y: -2.2001953}
+        - {x: -31.632812, y: -16.200195}
+        - {x: -22.632812, y: -26.200195}
+        - {x: -3.6328125, y: -32.200195}
+        - {x: 14.3671875, y: -32.200195}
+        - {x: 19.367188, y: -24.200195}
+        - {x: 37.367188, y: -6.2001953}
+        - {x: 37.367188, y: 26.799805}
+    - name: StartSpriteList_16
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 6008
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.15625, y: 46.799805}
+        - {x: -25.84375, y: 46.799805}
+        - {x: -36.84375, y: 35.799805}
+        - {x: -36.84375, y: -20.200195}
+        - {x: -8.84375, y: -37.200195}
+        - {x: 16.15625, y: -37.200195}
+        - {x: 43.15625, y: -2.2001953}
+        - {x: 45.15625, y: 1.7998047}
+        - {x: 45.15625, y: 22.799805}
+    - name: StartSpriteList_17
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 6008
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.445312, y: 55.799805}
+        - {x: -15.5546875, y: 55.799805}
+        - {x: -31.554688, y: 49.799805}
+        - {x: -38.554688, y: 28.799805}
+        - {x: -38.554688, y: -8.200195}
+        - {x: -22.554688, y: -40.200195}
+        - {x: 5.4453125, y: -40.200195}
+        - {x: 53.445312, y: -20.200195}
+        - {x: 53.445312, y: 14.799805}
+        - {x: 31.445312, y: 52.799805}
+    - name: StartSpriteList_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5507
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 63.551514}
+        - {x: -42, y: 33.551514}
+        - {x: -42, y: -13.448486}
+        - {x: -30, y: -40.448486}
+        - {x: 11, y: -40.448486}
+        - {x: 51, y: -27.448486}
+        - {x: 57, y: -24.448486}
+        - {x: 57, y: 13.551514}
+        - {x: 23, y: 63.551514}
+    - name: StartSpriteList_19
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 5507
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.289062, y: 69.55151}
+        - {x: -1.7109375, y: 69.55151}
+        - {x: -6.7109375, y: 68.55151}
+        - {x: -43.710938, y: 45.551514}
+        - {x: -43.710938, y: -39.448486}
+        - {x: 43.289062, y: -39.448486}
+        - {x: 57.289062, y: -38.448486}
+        - {x: 61.289062, y: -34.448486}
+        - {x: 61.289062, y: -0.44848633}
+        - {x: 40.289062, y: 65.55151}
+    - name: StartSpriteList_20
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 5507
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.421875, y: 36.551514}
+        - {x: -52.421875, y: 5.5515137}
+        - {x: -52.421875, y: -32.448486}
+        - {x: -14.421875, y: -49.448486}
+        - {x: 61.578125, y: -49.448486}
+        - {x: 61.578125, y: 4.5515137}
+        - {x: 47.578125, y: 68.55151}
+        - {x: 36.578125, y: 73.55151}
+        - {x: 8.578125, y: 73.55151}
+        - {x: -24.421875, y: 54.551514}
+    - name: StartSpriteList_21
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 5507
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.3671875, y: 74.55151}
+        - {x: -50.632812, y: 51.551514}
+        - {x: -61.632812, y: 11.551514}
+        - {x: -61.632812, y: -24.448486}
+        - {x: -57.632812, y: -35.448486}
+        - {x: 24.367188, y: -62.448486}
+        - {x: 60.367188, y: -62.448486}
+        - {x: 62.367188, y: -61.448486}
+        - {x: 62.367188, y: 69.55151}
+        - {x: 59.367188, y: 74.55151}
+    - name: StartSpriteList_22
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 5507
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.15625, y: 71.55151}
+        - {x: -42.84375, y: 46.551514}
+        - {x: -68.84375, y: 9.551514}
+        - {x: -68.84375, y: -19.448486}
+        - {x: 3.15625, y: -76.44849}
+        - {x: 50.15625, y: -76.44849}
+        - {x: 74.15625, y: 4.5515137}
+        - {x: 74.15625, y: 67.55151}
+        - {x: 59.15625, y: 71.55151}
+    - name: StartSpriteList_23
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 5507
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.554688, y: 66.55151}
+        - {x: -23.554688, y: 65.55151}
+        - {x: -71.55469, y: 32.551514}
+        - {x: -71.55469, y: -3.4484863}
+        - {x: -15.5546875, y: -88.44849}
+        - {x: 43.445312, y: -88.44849}
+        - {x: 47.445312, y: -86.44849}
+        - {x: 88.44531, y: -3.4484863}
+        - {x: 88.44531, y: 51.551514}
+        - {x: 83.44531, y: 66.55151}
+    - name: StartSpriteList_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5006
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 63.30298}
+        - {x: -25, y: 63.30298}
+        - {x: -73, y: 43.30298}
+        - {x: -73, y: 8.3029785}
+        - {x: -16, y: -94.69702}
+        - {x: 21, y: -94.69702}
+        - {x: 99, y: 3.3029785}
+        - {x: 99, y: 41.30298}
+        - {x: 92, y: 53.30298}
+    - name: StartSpriteList_25
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 5006
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.710938, y: 62.30298}
+        - {x: -66.71094, y: 54.30298}
+        - {x: -66.71094, y: 14.3029785}
+        - {x: -47.710938, y: -62.69702}
+        - {x: -33.710938, y: -95.69702}
+        - {x: -1.7109375, y: -95.69702}
+        - {x: 105.28906, y: -30.697021}
+        - {x: 105.28906, y: 52.30298}
+        - {x: 35.289062, y: 62.30298}
+    - name: StartSpriteList_26
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 5006
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.578125, y: 74.30298}
+        - {x: -55.421875, y: 74.30298}
+        - {x: -59.421875, y: 71.30298}
+        - {x: -59.421875, y: -87.69702}
+        - {x: -51.421875, y: -92.69702}
+        - {x: 12.578125, y: -92.69702}
+        - {x: 99.578125, y: -45.69702}
+        - {x: 106.578125, y: -33.69702}
+        - {x: 106.578125, y: 20.302979}
+    - name: StartSpriteList_27
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 5006
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.632812, y: 82.30298}
+        - {x: -54.632812, y: 71.30298}
+        - {x: -74.63281, y: -12.6970215}
+        - {x: -74.63281, y: -77.69702}
+        - {x: -72.63281, y: -84.69702}
+        - {x: -11.6328125, y: -84.69702}
+        - {x: 79.36719, y: -68.69702}
+        - {x: 102.36719, y: -47.69702}
+        - {x: 102.36719, y: -1.6970215}
+        - {x: 10.3671875, y: 82.30298}
+    - name: StartSpriteList_28
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 5006
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.84375, y: 86.30298}
+        - {x: -88.84375, y: -37.69702}
+        - {x: -88.84375, y: -56.69702}
+        - {x: -76.84375, y: -70.69702}
+        - {x: -73.84375, y: -72.69702}
+        - {x: 84.15625, y: -72.69702}
+        - {x: 93.15625, y: -71.69702}
+        - {x: 93.15625, y: -20.697021}
+        - {x: 19.15625, y: 86.30298}
+    - name: StartSpriteList_29
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 5006
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5546875, y: 86.30298}
+        - {x: -96.55469, y: 3.3029785}
+        - {x: -96.55469, y: -51.69702}
+        - {x: -37.554688, y: -84.69702}
+        - {x: 72.44531, y: -84.69702}
+        - {x: 81.44531, y: -77.69702}
+        - {x: 81.44531, y: -33.69702}
+        - {x: 36.445312, y: 86.30298}
+    - name: StartSpriteList_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4505
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102, y: -31.445557}
+        - {x: 2, y: -92.44556}
+        - {x: 56, y: -92.44556}
+        - {x: 65, y: -86.44556}
+        - {x: 65, y: 33.554443}
+        - {x: 59, y: 76.55444}
+        - {x: 40, y: 83.55444}
+        - {x: -6, y: 83.55444}
+        - {x: -102, y: -0.44555664}
+    - name: StartSpriteList_31
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 4505
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.2890625, y: 77.55444}
+        - {x: -101.71094, y: 17.554443}
+        - {x: -101.71094, y: -12.445557}
+        - {x: 0.2890625, y: -97.44556}
+        - {x: 43.289062, y: -97.44556}
+        - {x: 56.289062, y: -73.44556}
+        - {x: 56.289062, y: 72.55444}
+        - {x: 43.289062, y: 77.55444}
+    - name: StartSpriteList_32
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 4505
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.578125, y: 69.55444}
+        - {x: -96.421875, y: 45.554443}
+        - {x: -99.421875, y: 32.554443}
+        - {x: -99.421875, y: 5.5544434}
+        - {x: -35.421875, y: -86.44556}
+        - {x: -2.421875, y: -98.44556}
+        - {x: 37.578125, y: -98.44556}
+        - {x: 65.578125, y: 18.554443}
+        - {x: 65.578125, y: 65.55444}
+        - {x: 64.578125, y: 69.55444}
+    - name: StartSpriteList_33
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 4505
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.3671875, y: 59.554443}
+        - {x: -94.63281, y: 49.554443}
+        - {x: -94.63281, y: 15.554443}
+        - {x: -16.632812, y: -97.44556}
+        - {x: 13.3671875, y: -97.44556}
+        - {x: 71.36719, y: 17.554443}
+        - {x: 71.36719, y: 54.554443}
+        - {x: 70.36719, y: 59.554443}
+    - name: StartSpriteList_34
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 4505
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.15625, y: 60.554443}
+        - {x: -81.84375, y: 60.554443}
+        - {x: -87.84375, y: 50.554443}
+        - {x: -87.84375, y: 17.554443}
+        - {x: -34.84375, y: -93.44556}
+        - {x: -32.84375, y: -94.44556}
+        - {x: 2.15625, y: -94.44556}
+        - {x: 75.15625, y: 12.554443}
+        - {x: 75.15625, y: 40.554443}
+        - {x: 68.15625, y: 57.554443}
+    - name: StartSpriteList_35
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 4505
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.554688, y: 67.55444}
+        - {x: -69.55469, y: 67.55444}
+        - {x: -78.55469, y: 61.554443}
+        - {x: -78.55469, y: 29.554443}
+        - {x: -38.554688, y: -89.44556}
+        - {x: -10.5546875, y: -89.44556}
+        - {x: 23.445312, y: -66.44556}
+        - {x: 78.44531, y: 11.554443}
+        - {x: 78.44531, y: 38.554443}
+    - name: StartSpriteList_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4004
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69, y: 31.806152}
+        - {x: -49, y: 73.80615}
+        - {x: -63, y: 73.80615}
+        - {x: -72, y: 65.80615}
+        - {x: -72, y: 42.806152}
+        - {x: -60, y: -19.193848}
+        - {x: -50, y: -75.19385}
+        - {x: -43, y: -81.19385}
+        - {x: -25, y: -81.19385}
+        - {x: -20, y: -80.19385}
+        - {x: 73, y: -0.19384766}
+        - {x: 77, y: 8.806152}
+        - {x: 77, y: 21.806152}
+    - name: StartSpriteList_37
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 4004
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.710938, y: 75.80615}
+        - {x: -54.710938, y: 75.80615}
+        - {x: -63.710938, y: 72.80615}
+        - {x: -63.710938, y: -9.193848}
+        - {x: -60.710938, y: -66.19385}
+        - {x: -44.710938, y: -76.19385}
+        - {x: -24.710938, y: -76.19385}
+        - {x: 76.28906, y: -1.1938477}
+        - {x: 76.28906, y: 17.806152}
+        - {x: 72.28906, y: 27.806152}
+    - name: StartSpriteList_38
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 4004
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70.578125, y: 19.806152}
+        - {x: -38.421875, y: 76.80615}
+        - {x: -53.421875, y: 76.80615}
+        - {x: -58.421875, y: 70.80615}
+        - {x: -58.421875, y: -37.193848}
+        - {x: -57.421875, y: -67.19385}
+        - {x: -48.421875, y: -70.19385}
+        - {x: -25.421875, y: -70.19385}
+        - {x: 69.578125, y: -12.193848}
+        - {x: 74.578125, y: -1.1938477}
+        - {x: 74.578125, y: 15.806152}
+    - name: StartSpriteList_39
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 4004
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.632812, y: 75.80615}
+        - {x: -48.632812, y: 75.80615}
+        - {x: -55.632812, y: 68.80615}
+        - {x: -55.632812, y: -65.19385}
+        - {x: -48.632812, y: -67.19385}
+        - {x: -30.632812, y: -67.19385}
+        - {x: 68.36719, y: -18.193848}
+        - {x: 71.36719, y: -8.193848}
+        - {x: 71.36719, y: 18.806152}
+    - name: StartSpriteList_40
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 4004
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.84375, y: 72.80615}
+        - {x: -54.84375, y: 69.80615}
+        - {x: -54.84375, y: -57.193848}
+        - {x: -50.84375, y: -64.19385}
+        - {x: -33.84375, y: -64.19385}
+        - {x: 67.15625, y: -13.193848}
+        - {x: 68.15625, y: -9.193848}
+        - {x: 68.15625, y: 14.806152}
+        - {x: -27.84375, y: 72.80615}
+    - name: StartSpriteList_41
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 4004
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64.44531, y: 18.806152}
+        - {x: -27.554688, y: 70.80615}
+        - {x: -43.554688, y: 70.80615}
+        - {x: -52.554688, y: 67.80615}
+        - {x: -52.554688, y: -54.193848}
+        - {x: -51.554688, y: -63.193848}
+        - {x: -28.554688, y: -63.193848}
+        - {x: 62.445312, y: -8.193848}
+        - {x: 67.44531, y: -4.1938477}
+        - {x: 67.44531, y: 10.806152}
+    - name: StartSpriteList_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3503
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 69.55762}
+        - {x: -53, y: 66.55762}
+        - {x: -53, y: -59.442383}
+        - {x: -50, y: -61.442383}
+        - {x: -16, y: -61.442383}
+        - {x: 65, y: -5.442383}
+        - {x: 65, y: 22.557617}
+        - {x: -28, y: 69.55762}
+    - name: StartSpriteList_43
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 3503
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62.289062, y: 20.557617}
+        - {x: -31.710938, y: 68.55762}
+        - {x: -50.710938, y: 68.55762}
+        - {x: -50.710938, y: -60.442383}
+        - {x: -33.710938, y: -60.442383}
+        - {x: 60.289062, y: -10.442383}
+        - {x: 64.28906, y: -1.4423828}
+        - {x: 64.28906, y: 17.557617}
+    - name: StartSpriteList_44
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 3503
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.421875, y: 67.55762}
+        - {x: -50.421875, y: 65.55762}
+        - {x: -50.421875, y: -53.442383}
+        - {x: -46.421875, y: -59.442383}
+        - {x: -31.421875, y: -59.442383}
+        - {x: 62.578125, y: -10.442383}
+        - {x: 62.578125, y: 13.557617}
+        - {x: -25.421875, y: 67.55762}
+    - name: StartSpriteList_45
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 3503
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.632812, y: 66.55762}
+        - {x: -50.632812, y: 62.557617}
+        - {x: -50.632812, y: -58.442383}
+        - {x: -5.6328125, y: -58.442383}
+        - {x: 61.367188, y: -5.442383}
+        - {x: 61.367188, y: 21.557617}
+        - {x: -13.6328125, y: 66.55762}
+    - name: StartSpriteList_46
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 3503
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.84375, y: -57.442383}
+        - {x: 60.15625, y: -14.442383}
+        - {x: 60.15625, y: 18.557617}
+        - {x: 5.15625, y: 66.55762}
+        - {x: -49.84375, y: 66.55762}
+        - {x: -49.84375, y: -57.442383}
+    - name: StartSpriteList_47
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 3503
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.554688, y: 65.55762}
+        - {x: -41.554688, y: 65.55762}
+        - {x: -48.554688, y: 62.557617}
+        - {x: -48.554688, y: -54.442383}
+        - {x: -43.554688, y: -56.442383}
+        - {x: -19.554688, y: -56.442383}
+        - {x: 60.445312, y: -7.442383}
+        - {x: 60.445312, y: 12.557617}
+        - {x: 59.445312, y: 17.557617}
+    - name: StartSpriteList_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3002
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 15.309082}
+        - {x: -24, y: 65.30908}
+        - {x: -44, y: 65.30908}
+        - {x: -50, y: 61.309082}
+        - {x: -50, y: -50.690918}
+        - {x: -44, y: -56.690918}
+        - {x: -33, y: -56.690918}
+        - {x: -22, y: -52.690918}
+        - {x: 55, y: -9.690918}
+        - {x: 58, y: -1.690918}
+        - {x: 58, y: 12.309082}
+    - name: StartSpriteList_49
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 3002
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.710938, y: 64.30908}
+        - {x: -42.710938, y: 64.30908}
+        - {x: -48.710938, y: 62.309082}
+        - {x: -48.710938, y: -52.690918}
+        - {x: -43.710938, y: -55.690918}
+        - {x: -19.710938, y: -55.690918}
+        - {x: 56.289062, y: -12.690918}
+        - {x: 59.289062, y: -2.690918}
+        - {x: 59.289062, y: 16.309082}
+    - name: StartSpriteList_50
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 3002
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.421875, y: 65.30908}
+        - {x: -49.421875, y: 63.309082}
+        - {x: -49.421875, y: -55.690918}
+        - {x: -47.421875, y: -56.690918}
+        - {x: -19.421875, y: -56.690918}
+        - {x: 59.578125, y: -4.690918}
+        - {x: 59.578125, y: 12.309082}
+        - {x: -25.421875, y: 65.30908}
+    - name: StartSpriteList_51
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 3002
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.632812, y: 65.30908}
+        - {x: -50.632812, y: 62.309082}
+        - {x: -50.632812, y: -50.690918}
+        - {x: -47.632812, y: -56.690918}
+        - {x: -27.632812, y: -56.690918}
+        - {x: 58.367188, y: -13.690918}
+        - {x: 58.367188, y: 14.309082}
+        - {x: -20.632812, y: 65.30908}
+    - name: StartSpriteList_52
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 3002
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49.15625, y: 19.309082}
+        - {x: -24.84375, y: 66.30908}
+        - {x: -51.84375, y: 66.30908}
+        - {x: -51.84375, y: -57.690918}
+        - {x: -31.84375, y: -57.690918}
+        - {x: 58.15625, y: -4.690918}
+        - {x: 59.15625, y: -2.690918}
+        - {x: 59.15625, y: 10.309082}
+    - name: StartSpriteList_53
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 3002
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.554688, y: 67.30908}
+        - {x: -51.554688, y: 61.309082}
+        - {x: -51.554688, y: -52.690918}
+        - {x: -45.554688, y: -58.690918}
+        - {x: 7.4453125, y: -58.690918}
+        - {x: 60.445312, y: -14.690918}
+        - {x: 60.445312, y: 25.309082}
+        - {x: -31.554688, y: 67.30908}
+    - name: StartSpriteList_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2501
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 68.56067}
+        - {x: -54, y: -58.43933}
+        - {x: -22, y: -58.43933}
+        - {x: 60, y: -5.439331}
+        - {x: 60, y: 12.560669}
+        - {x: -30, y: 68.56067}
+    - name: StartSpriteList_55
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 2501
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.710938, y: -59.43933}
+        - {x: -29.710938, y: -59.43933}
+        - {x: 61.289062, y: -11.439331}
+        - {x: 61.289062, y: 23.560669}
+        - {x: -30.710938, y: 68.56067}
+        - {x: -52.710938, y: 68.56067}
+        - {x: -53.710938, y: 66.56067}
+    - name: StartSpriteList_56
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 2501
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.421875, y: 69.56067}
+        - {x: -54.421875, y: 65.56067}
+        - {x: -54.421875, y: -58.43933}
+        - {x: -48.421875, y: -60.43933}
+        - {x: -24.421875, y: -60.43933}
+        - {x: 61.578125, y: -17.439331}
+        - {x: 61.578125, y: 27.560669}
+        - {x: -33.421875, y: 69.56067}
+    - name: StartSpriteList_57
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 2501
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.632812, y: 70.56067}
+        - {x: -49.632812, y: 70.56067}
+        - {x: -55.632812, y: 67.56067}
+        - {x: -55.632812, y: -52.43933}
+        - {x: -50.632812, y: -60.43933}
+        - {x: -34.632812, y: -60.43933}
+        - {x: -26.632812, y: -58.43933}
+        - {x: 60.367188, y: -14.439331}
+        - {x: 62.367188, y: -7.439331}
+        - {x: 62.367188, y: 21.560669}
+    - name: StartSpriteList_58
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 2501
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.84375, y: 71.56067}
+        - {x: -56.84375, y: 71.56067}
+        - {x: -56.84375, y: -61.43933}
+        - {x: -35.84375, y: -61.43933}
+        - {x: 61.15625, y: -11.439331}
+        - {x: 62.15625, y: -10.439331}
+        - {x: 62.15625, y: 34.56067}
+        - {x: 58.15625, y: 48.56067}
+    - name: StartSpriteList_59
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 2501
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.554688, y: 71.56067}
+        - {x: -56.554688, y: 65.56067}
+        - {x: -56.554688, y: -56.43933}
+        - {x: -53.554688, y: -62.43933}
+        - {x: -32.554688, y: -62.43933}
+        - {x: 62.445312, y: -13.439331}
+        - {x: 63.445312, y: -10.439331}
+        - {x: 63.445312, y: 14.560669}
+        - {x: -34.554688, y: 71.56067}
+    - name: StartSpriteList_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 74.812256}
+        - {x: -52, y: 74.812256}
+        - {x: -59, y: 70.812256}
+        - {x: -59, y: -61.187744}
+        - {x: -58, y: -62.187744}
+        - {x: -17, y: -62.187744}
+        - {x: 63, y: -2.1877441}
+        - {x: 63, y: 16.812256}
+        - {x: 57, y: 19.812256}
+    - name: StartSpriteList_61
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 2000
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.710938, y: 74.812256}
+        - {x: -51.710938, y: 74.812256}
+        - {x: -58.710938, y: 72.812256}
+        - {x: -58.710938, y: -55.187744}
+        - {x: -52.710938, y: -62.187744}
+        - {x: -37.710938, y: -62.187744}
+        - {x: 64.28906, y: -3.1877441}
+        - {x: 64.28906, y: 13.812256}
+        - {x: 60.289062, y: 21.812256}
+    - name: StartSpriteList_62
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 2000
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.421875, y: 75.812256}
+        - {x: -59.421875, y: 72.812256}
+        - {x: -59.421875, y: -59.187744}
+        - {x: -56.421875, y: -63.187744}
+        - {x: -39.421875, y: -63.187744}
+        - {x: 63.578125, y: -10.187744}
+        - {x: 64.578125, y: -3.1877441}
+        - {x: 64.578125, y: 17.812256}
+        - {x: -27.421875, y: 75.812256}
+    - name: StartSpriteList_63
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 2000
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.632812, y: 76.812256}
+        - {x: -60.632812, y: 76.812256}
+        - {x: -60.632812, y: -64.187744}
+        - {x: -36.632812, y: -64.187744}
+        - {x: 64.36719, y: -3.1877441}
+        - {x: 64.36719, y: 12.812256}
+        - {x: 61.367188, y: 19.812256}
+    - name: StartSpriteList_64
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 2000
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.84375, y: 70.812256}
+        - {x: -42.84375, y: 77.812256}
+        - {x: -58.84375, y: 77.812256}
+        - {x: -61.84375, y: 70.812256}
+        - {x: -61.84375, y: -60.187744}
+        - {x: -54.84375, y: -65.187744}
+        - {x: -34.84375, y: -65.187744}
+        - {x: 65.15625, y: -12.187744}
+        - {x: 65.15625, y: 20.812256}
+        - {x: 64.15625, y: 25.812256}
+    - name: StartSpriteList_65
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 2000
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.554688, y: 78.812256}
+        - {x: -62.554688, y: 73.812256}
+        - {x: -62.554688, y: -61.187744}
+        - {x: -58.554688, y: -65.187744}
+        - {x: -37.554688, y: -65.187744}
+        - {x: 66.44531, y: -19.187744}
+        - {x: 66.44531, y: 28.812256}
+        - {x: -43.554688, y: 78.812256}
+    - name: StartSpriteList_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1499
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 78.56372}
+        - {x: -59, y: 78.56372}
+        - {x: -64, y: 75.56372}
+        - {x: -64, y: -59.43628}
+        - {x: -59, y: -66.43628}
+        - {x: -40, y: -66.43628}
+        - {x: 65, y: -12.436279}
+        - {x: 65, y: 15.563721}
+        - {x: 60, y: 18.56372}
+    - name: StartSpriteList_67
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1499
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.710938, y: 79.56372}
+        - {x: -63.710938, y: 76.56372}
+        - {x: -63.710938, y: -56.43628}
+        - {x: -60.710938, y: -66.43628}
+        - {x: -33.710938, y: -66.43628}
+        - {x: 66.28906, y: -20.43628}
+        - {x: 66.28906, y: 27.56372}
+        - {x: -22.710938, y: 79.56372}
+    - name: StartSpriteList_68
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1499
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.421875, y: 79.56372}
+        - {x: -64.421875, y: 75.56372}
+        - {x: -64.421875, y: -58.43628}
+        - {x: -59.421875, y: -66.43628}
+        - {x: -37.421875, y: -66.43628}
+        - {x: -21.421875, y: -61.43628}
+        - {x: 66.578125, y: -2.4362793}
+        - {x: 66.578125, y: 18.56372}
+        - {x: -29.421875, y: 79.56372}
+    - name: StartSpriteList_69
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1499
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57.632812, y: 79.56372}
+        - {x: -64.63281, y: 71.56372}
+        - {x: -64.63281, y: -65.43628}
+        - {x: -62.632812, y: -66.43628}
+        - {x: -7.6328125, y: -66.43628}
+        - {x: 66.36719, y: -6.4362793}
+        - {x: 66.36719, y: 29.56372}
+        - {x: -37.632812, y: 79.56372}
+    - name: StartSpriteList_70
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 1499
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.84375, y: 79.56372}
+        - {x: -64.84375, y: -65.43628}
+        - {x: -63.84375, y: -66.43628}
+        - {x: -31.84375, y: -66.43628}
+        - {x: 66.15625, y: -2.4362793}
+        - {x: 66.15625, y: 15.563721}
+        - {x: -37.84375, y: 79.56372}
+    - name: StartSpriteList_71
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 1499
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.554688, y: 79.56372}
+        - {x: -59.554688, y: 79.56372}
+        - {x: -64.55469, y: 77.56372}
+        - {x: -64.55469, y: -63.43628}
+        - {x: -57.554688, y: -66.43628}
+        - {x: -30.554688, y: -66.43628}
+        - {x: 63.445312, y: -10.436279}
+        - {x: 66.44531, y: -1.4362793}
+        - {x: 66.44531, y: 16.56372}
+    - name: StartSpriteList_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 998
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58, y: 79.31531}
+        - {x: -66, y: 77.31531}
+        - {x: -66, y: -61.684692}
+        - {x: -62, y: -66.68469}
+        - {x: -43, y: -66.68469}
+        - {x: 65, y: -19.684692}
+        - {x: 65, y: 31.315308}
+        - {x: -37, y: 79.31531}
+    - name: StartSpriteList_73
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 998
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.710938, y: 79.31531}
+        - {x: -64.71094, y: 79.31531}
+        - {x: -64.71094, y: -60.684692}
+        - {x: -63.710938, y: -66.68469}
+        - {x: -41.710938, y: -66.68469}
+        - {x: 66.28906, y: -3.6846924}
+        - {x: 66.28906, y: 26.315308}
+    - name: StartSpriteList_74
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 998
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.421875, y: 79.31531}
+        - {x: -64.421875, y: 79.31531}
+        - {x: -64.421875, y: -63.684692}
+        - {x: -58.421875, y: -66.68469}
+        - {x: -33.421875, y: -66.68469}
+        - {x: 61.578125, y: -9.684692}
+        - {x: 66.578125, y: -0.6846924}
+        - {x: 66.578125, y: 16.315308}
+    - name: StartSpriteList_75
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 998
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.6328125, y: 79.31531}
+        - {x: -64.63281, y: 79.31531}
+        - {x: -64.63281, y: -64.68469}
+        - {x: -61.632812, y: -66.68469}
+        - {x: -23.632812, y: -66.68469}
+        - {x: 62.367188, y: -10.684692}
+        - {x: 66.36719, y: -1.6846924}
+        - {x: 66.36719, y: 16.315308}
+    - name: StartSpriteList_76
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 998
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.84375, y: 79.31531}
+        - {x: -64.84375, y: 79.31531}
+        - {x: -64.84375, y: -66.68469}
+        - {x: -20.84375, y: -66.68469}
+        - {x: 66.15625, y: -5.6846924}
+        - {x: 66.15625, y: 22.315308}
+        - {x: 64.15625, y: 25.315308}
+    - name: StartSpriteList_77
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 998
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64.55469, y: -59.684692}
+        - {x: -60.554688, y: -66.68469}
+        - {x: -42.554688, y: -66.68469}
+        - {x: 66.44531, y: -8.684692}
+        - {x: 66.44531, y: 17.315308}
+        - {x: 63.445312, y: 23.315308}
+        - {x: -35.554688, y: 79.31531}
+        - {x: -56.554688, y: 79.31531}
+        - {x: -64.55469, y: 76.31531}
+    - name: StartSpriteList_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 497
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61, y: 24.566833}
+        - {x: -38, y: 80.56683}
+        - {x: -57, y: 80.56683}
+        - {x: -66, y: 76.56683}
+        - {x: -66, y: -56.433167}
+        - {x: -60, y: -66.43317}
+        - {x: -45, y: -66.43317}
+        - {x: 58, y: -7.4331665}
+        - {x: 65, y: -2.4331665}
+        - {x: 65, y: 14.5668335}
+    - name: StartSpriteList_79
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 497
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.710938, y: 80.56683}
+        - {x: -64.71094, y: 76.56683}
+        - {x: -64.71094, y: -66.43317}
+        - {x: -34.710938, y: -66.43317}
+        - {x: 66.28906, y: -2.4331665}
+        - {x: 66.28906, y: 16.566833}
+        - {x: -39.710938, y: 80.56683}
+    - name: StartSpriteList_80
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 497
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.421875, y: 75.56683}
+        - {x: -43.421875, y: 80.56683}
+        - {x: -56.421875, y: 80.56683}
+        - {x: -64.421875, y: 71.56683}
+        - {x: -64.421875, y: -62.433167}
+        - {x: -58.421875, y: -66.43317}
+        - {x: -28.421875, y: -66.43317}
+        - {x: 66.578125, y: -3.4331665}
+        - {x: 66.578125, y: 15.5668335}
+        - {x: 62.578125, y: 24.566833}
+    - name: StartSpriteList_81
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 497
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.632812, y: 80.56683}
+        - {x: -64.63281, y: 79.56683}
+        - {x: -64.63281, y: -66.43317}
+        - {x: -30.632812, y: -66.43317}
+        - {x: 66.36719, y: -12.4331665}
+        - {x: 66.36719, y: 16.566833}
+        - {x: -14.6328125, y: 80.56683}
+    - name: StartSpriteList_82
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 497
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.84375, y: 80.56683}
+        - {x: -57.84375, y: 80.56683}
+        - {x: -64.84375, y: 76.56683}
+        - {x: -64.84375, y: -64.43317}
+        - {x: -58.84375, y: -66.43317}
+        - {x: -32.84375, y: -66.43317}
+        - {x: 66.15625, y: -6.4331665}
+        - {x: 66.15625, y: 14.5668335}
+        - {x: 60.15625, y: 29.566833}
+    - name: StartSpriteList_83
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 497
+        width: 600
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.554688, y: 80.56683}
+        - {x: -55.554688, y: 80.56683}
+        - {x: -64.55469, y: 76.56683}
+        - {x: -64.55469, y: -56.433167}
+        - {x: -59.554688, y: -66.43317}
+        - {x: -42.554688, y: -66.43317}
+        - {x: 62.445312, y: -10.4331665}
+        - {x: 66.44531, y: 0.5668335}
+        - {x: 66.44531, y: 16.566833}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1100 @@
+fileFormatVersion: 2
+guid: 03147c11f85f14be7a4a7b564d67bd89
+timeCreated: 1471190509
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SstarSpriteList_0
+    21300002: SstarSpriteList_1
+    21300004: SstarSpriteList_2
+    21300006: SstarSpriteList_3
+    21300008: SstarSpriteList_4
+    21300010: SstarSpriteList_5
+    21300012: SstarSpriteList_6
+    21300014: SstarSpriteList_7
+    21300016: SstarSpriteList_8
+    21300018: SstarSpriteList_9
+    21300020: SstarSpriteList_10
+    21300022: SstarSpriteList_11
+    21300024: SstarSpriteList_12
+    21300026: SstarSpriteList_13
+    21300028: SstarSpriteList_14
+    21300030: SstarSpriteList_15
+    21300032: SstarSpriteList_16
+    21300034: SstarSpriteList_17
+    21300036: SstarSpriteList_18
+    21300038: SstarSpriteList_19
+    21300040: SstarSpriteList_20
+    21300042: SstarSpriteList_21
+    21300044: SstarSpriteList_22
+    21300046: SstarSpriteList_23
+    21300048: SstarSpriteList_24
+    21300050: SstarSpriteList_25
+    21300052: SstarSpriteList_26
+    21300054: SstarSpriteList_27
+    21300056: SstarSpriteList_28
+    21300058: SstarSpriteList_29
+    21300060: SstarSpriteList_30
+    21300062: SstarSpriteList_31
+    21300064: SstarSpriteList_32
+    21300066: SstarSpriteList_33
+    21300068: SstarSpriteList_34
+    21300070: SstarSpriteList_35
+    21300072: SstarSpriteList_36
+    21300074: SstarSpriteList_37
+    21300076: SstarSpriteList_38
+    21300078: SstarSpriteList_39
+    21300080: SstarSpriteList_40
+    21300082: SstarSpriteList_41
+    21300084: SstarSpriteList_42
+    21300086: SstarSpriteList_43
+    21300088: SstarSpriteList_44
+    21300090: SstarSpriteList_45
+    21300092: SstarSpriteList_46
+    21300094: SstarSpriteList_47
+    21300096: SstarSpriteList_48
+    21300098: SstarSpriteList_49
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SstarSpriteList_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2080
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 64.08667}
+        - {x: -64, y: -63.91333}
+        - {x: 47, y: -63.91333}
+        - {x: 64, y: -18.91333}
+        - {x: 64, y: 30.08667}
+        - {x: 8, y: 64.08667}
+    - name: SstarSpriteList_1
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2080
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.300003, y: -63.91333}
+        - {x: 65.3, y: -15.91333}
+        - {x: 65.3, y: 27.08667}
+        - {x: 11.300003, y: 64.08667}
+        - {x: -8.699997, y: 64.08667}
+        - {x: -62.699997, y: 20.08667}
+        - {x: -62.699997, y: -1.9133301}
+        - {x: -43.699997, y: -63.91333}
+        - {x: -24.699997, y: -63.91333}
+        - {x: -9.699997, y: -55.91333}
+        - {x: -1.699997, y: -50.91333}
+        - {x: 26.300003, y: -63.91333}
+    - name: SstarSpriteList_2
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2080
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.100006, y: 64.08667}
+        - {x: -28.899994, y: 64.08667}
+        - {x: -62.899994, y: 22.08667}
+        - {x: -62.899994, y: -2.91333}
+        - {x: -46.899994, y: -61.91333}
+        - {x: -40.899994, y: -63.91333}
+        - {x: 48.100006, y: -63.91333}
+        - {x: 65.100006, y: -13.91333}
+        - {x: 65.100006, y: 34.08667}
+    - name: SstarSpriteList_3
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 2080
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.099976, y: 64.08667}
+        - {x: -63.099976, y: 32.08667}
+        - {x: -63.099976, y: -13.91333}
+        - {x: -44.099976, y: -63.91333}
+        - {x: 42.900024, y: -63.91333}
+        - {x: 64.900024, y: -22.91333}
+        - {x: 64.900024, y: 26.08667}
+        - {x: 25.900024, y: 64.08667}
+    - name: SstarSpriteList_4
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 2080
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.299988, y: 64.08667}
+        - {x: -63.299988, y: 49.08667}
+        - {x: -63.299988, y: -63.91333}
+        - {x: 46.700012, y: -63.91333}
+        - {x: 64.70001, y: -0.9133301}
+        - {x: 64.70001, y: 30.08667}
+        - {x: 13.700012, y: 64.08667}
+    - name: SstarSpriteList_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1849
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 63.78662}
+        - {x: -64, y: 40.78662}
+        - {x: -64, y: -21.213379}
+        - {x: -40, y: -64.21338}
+        - {x: 49, y: -64.21338}
+        - {x: 64, y: -33.21338}
+        - {x: 64, y: 25.786621}
+        - {x: 37, y: 63.78662}
+    - name: SstarSpriteList_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1849
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.699997, y: 63.78662}
+        - {x: -62.699997, y: 37.78662}
+        - {x: -62.699997, y: -10.213379}
+        - {x: -41.699997, y: -64.21338}
+        - {x: 53.300003, y: -64.21338}
+        - {x: 65.3, y: -38.21338}
+        - {x: 65.3, y: 50.78662}
+        - {x: 39.300003, y: 63.78662}
+    - name: SstarSpriteList_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1849
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.899994, y: 63.78662}
+        - {x: -62.899994, y: 50.78662}
+        - {x: -62.899994, y: -45.21338}
+        - {x: -58.899994, y: -64.21338}
+        - {x: 57.100006, y: -64.21338}
+        - {x: 65.100006, y: -32.21338}
+        - {x: 65.100006, y: 32.78662}
+        - {x: 13.100006, y: 63.78662}
+    - name: SstarSpriteList_8
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1849
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64.900024, y: 18.786621}
+        - {x: 23.900024, y: 63.78662}
+        - {x: -24.099976, y: 63.78662}
+        - {x: -63.099976, y: 41.78662}
+        - {x: -63.099976, y: -9.213379}
+        - {x: -53.099976, y: -64.21338}
+        - {x: 36.900024, y: -64.21338}
+        - {x: 42.900024, y: -62.21338}
+        - {x: 43.900024, y: -57.21338}
+        - {x: 64.900024, y: 4.786621}
+    - name: SstarSpriteList_9
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1849
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.299988, y: 63.78662}
+        - {x: -63.299988, y: 44.78662}
+        - {x: -63.299988, y: -9.213379}
+        - {x: -50.299988, y: -64.21338}
+        - {x: 55.700012, y: -64.21338}
+        - {x: 64.70001, y: -43.21338}
+        - {x: 64.70001, y: 31.786621}
+        - {x: 32.700012, y: 63.78662}
+    - name: SstarSpriteList_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1618
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 63.986572}
+        - {x: -51, y: 49.986572}
+        - {x: -64, y: 31.986572}
+        - {x: -64, y: -22.013428}
+        - {x: -44, y: -57.013428}
+        - {x: -39, y: -64.01343}
+        - {x: 54, y: -64.01343}
+        - {x: 64, y: -31.013428}
+        - {x: 64, y: 19.986572}
+        - {x: 24, y: 63.986572}
+    - name: SstarSpriteList_11
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1618
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.699997, y: 63.986572}
+        - {x: -62.699997, y: 32.986572}
+        - {x: -62.699997, y: -12.013428}
+        - {x: -48.699997, y: -61.013428}
+        - {x: -43.699997, y: -64.01343}
+        - {x: 53.300003, y: -64.01343}
+        - {x: 65.3, y: -31.013428}
+        - {x: 65.3, y: 32.986572}
+        - {x: 23.300003, y: 63.986572}
+    - name: SstarSpriteList_12
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1618
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.100006, y: 63.986572}
+        - {x: -12.899994, y: 63.986572}
+        - {x: -62.899994, y: 32.986572}
+        - {x: -62.899994, y: -26.013428}
+        - {x: -52.899994, y: -61.013428}
+        - {x: -47.899994, y: -64.01343}
+        - {x: 57.100006, y: -64.01343}
+        - {x: 65.100006, y: -43.013428}
+        - {x: 65.100006, y: 26.986572}
+    - name: SstarSpriteList_13
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1618
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59.900024, y: 34.986572}
+        - {x: 7.9000244, y: 63.986572}
+        - {x: -13.099976, y: 63.986572}
+        - {x: -58.099976, y: 26.986572}
+        - {x: -63.099976, y: 17.986572}
+        - {x: -63.099976, y: -5.0134277}
+        - {x: -46.099976, y: -58.013428}
+        - {x: -35.099976, y: -64.01343}
+        - {x: 47.900024, y: -64.01343}
+        - {x: 64.900024, y: -27.013428}
+        - {x: 64.900024, y: 26.986572}
+    - name: SstarSpriteList_14
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1618
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.299988, y: 63.986572}
+        - {x: -63.299988, y: 28.986572}
+        - {x: -63.299988, y: -64.01343}
+        - {x: 51.700012, y: -64.01343}
+        - {x: 64.70001, y: -7.0134277}
+        - {x: 64.70001, y: 29.986572}
+        - {x: 10.700012, y: 63.986572}
+    - name: SstarSpriteList_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1387
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102, y: -101.813354}
+        - {x: -98, y: -101.813354}
+        - {x: -98, y: -94.813354}
+        - {x: -100, y: -92.813354}
+        - {x: -102, y: -92.813354}
+      - - {x: -6, y: 64.186646}
+        - {x: -16, y: 58.186646}
+        - {x: -61, y: 25.186646}
+        - {x: -64, y: 18.186646}
+        - {x: -64, y: -11.8133545}
+        - {x: -43, y: -63.813354}
+        - {x: 46, y: -63.813354}
+        - {x: 64, y: -12.8133545}
+        - {x: 64, y: 28.186646}
+        - {x: 13, y: 64.186646}
+    - name: SstarSpriteList_16
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1387
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.699997, y: 64.186646}
+        - {x: -62.699997, y: -63.813354}
+        - {x: 47.300003, y: -63.813354}
+        - {x: 65.3, y: -24.813354}
+        - {x: 65.3, y: 31.186646}
+        - {x: 18.300003, y: 64.186646}
+    - name: SstarSpriteList_17
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1387
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.100006, y: 64.186646}
+        - {x: -9.899994, y: 64.186646}
+        - {x: -62.899994, y: 39.186646}
+        - {x: -62.899994, y: -26.813354}
+        - {x: -45.899994, y: -63.813354}
+        - {x: 54.100006, y: -63.813354}
+        - {x: 65.100006, y: -15.8133545}
+        - {x: 65.100006, y: 31.186646}
+    - name: SstarSpriteList_18
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1387
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.099976, y: 64.186646}
+        - {x: -60.099976, y: 26.186646}
+        - {x: -63.099976, y: 21.186646}
+        - {x: -63.099976, y: -10.8133545}
+        - {x: -41.099976, y: -63.813354}
+        - {x: 55.900024, y: -63.813354}
+        - {x: 64.900024, y: -42.813354}
+        - {x: 64.900024, y: 23.186646}
+        - {x: 11.900024, y: 64.186646}
+    - name: SstarSpriteList_19
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1387
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64.70001, y: 21.186646}
+        - {x: 55.700012, y: 26.186646}
+        - {x: 9.700012, y: 64.186646}
+        - {x: -6.299988, y: 64.186646}
+        - {x: -7.299988, y: 63.186646}
+        - {x: -16.299988, y: 46.186646}
+        - {x: -63.299988, y: 26.186646}
+        - {x: -63.299988, y: -22.813354}
+        - {x: -54.299988, y: -63.813354}
+        - {x: 40.700012, y: -63.813354}
+        - {x: 45.700012, y: -56.813354}
+        - {x: 64.70001, y: 6.1866455}
+    - name: SstarSpriteList_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1156
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 64.3866}
+        - {x: -64, y: 36.386597}
+        - {x: -64, y: -19.613403}
+        - {x: -48, y: -63.613403}
+        - {x: 48, y: -63.613403}
+        - {x: 64, y: -1.6134033}
+        - {x: 64, y: 31.386597}
+        - {x: 30, y: 64.3866}
+      - - {x: -102, y: 103.3866}
+        - {x: -102, y: 96.3866}
+        - {x: -100, y: 96.3866}
+        - {x: -98, y: 98.3866}
+        - {x: -98, y: 103.3866}
+    - name: SstarSpriteList_21
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1156
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.699997, y: 64.3866}
+        - {x: -62.699997, y: 40.386597}
+        - {x: -62.699997, y: -0.6134033}
+        - {x: -48.699997, y: -61.613403}
+        - {x: -39.699997, y: -63.613403}
+        - {x: 54.300003, y: -63.613403}
+        - {x: 65.3, y: -37.613403}
+        - {x: 65.3, y: 28.386597}
+        - {x: 30.300003, y: 64.3866}
+    - name: SstarSpriteList_22
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1156
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.899994, y: 65.3866}
+        - {x: -13.899994, y: 54.386597}
+        - {x: -53.899994, y: 29.386597}
+        - {x: -63.899994, y: 20.386597}
+        - {x: -63.899994, y: -10.613403}
+        - {x: -55.899994, y: -63.613403}
+        - {x: 49.100006, y: -63.613403}
+        - {x: 66.100006, y: -15.613403}
+        - {x: 66.100006, y: 27.386597}
+        - {x: 16.100006, y: 65.3866}
+    - name: SstarSpriteList_23
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1156
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.099976, y: 66.3866}
+        - {x: -61.099976, y: 28.386597}
+        - {x: -65.099976, y: 19.386597}
+        - {x: -65.099976, y: -64.6134}
+        - {x: 47.900024, y: -64.6134}
+        - {x: 66.900024, y: -16.613403}
+        - {x: 66.900024, y: 37.386597}
+        - {x: 11.900024, y: 66.3866}
+    - name: SstarSpriteList_24
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1156
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.70001, y: 30.386597}
+        - {x: 14.700012, y: 68.3866}
+        - {x: -6.299988, y: 68.3866}
+        - {x: -67.29999, y: 34.386597}
+        - {x: -67.29999, y: -4.6134033}
+        - {x: -49.299988, y: -66.6134}
+        - {x: 40.700012, y: -66.6134}
+        - {x: 48.700012, y: -59.613403}
+        - {x: 67.70001, y: 9.386597}
+    - name: SstarSpriteList_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 925
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 70.08661}
+        - {x: -70, y: 35.08661}
+        - {x: -70, y: -23.913391}
+        - {x: -58, y: -70.91339}
+        - {x: 55, y: -70.91339}
+        - {x: 71, y: -33.91339}
+        - {x: 71, y: 36.08661}
+        - {x: 33, y: 70.08661}
+    - name: SstarSpriteList_26
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 925
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74.3, y: -57.91339}
+        - {x: 74.3, y: 51.08661}
+        - {x: 45.300003, y: 72.08661}
+        - {x: -25.699997, y: 72.08661}
+        - {x: -71.7, y: 45.08661}
+        - {x: -71.7, y: -38.91339}
+        - {x: -57.699997, y: -66.91339}
+        - {x: -45.699997, y: -72.91339}
+        - {x: -26.699997, y: -72.91339}
+        - {x: -1.699997, y: -57.91339}
+        - {x: 31.300003, y: -72.91339}
+        - {x: 53.300003, y: -72.91339}
+    - name: SstarSpriteList_27
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 925
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.100006, y: 75.08661}
+        - {x: -27.899994, y: 75.08661}
+        - {x: -74.899994, y: 49.08661}
+        - {x: -74.899994, y: -14.913391}
+        - {x: -61.899994, y: -71.91339}
+        - {x: -50.899994, y: -75.91339}
+        - {x: 52.100006, y: -75.91339}
+        - {x: 77.100006, y: -9.913391}
+        - {x: 77.100006, y: 35.08661}
+    - name: SstarSpriteList_28
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 925
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.0999756, y: 79.08661}
+        - {x: -13.099976, y: 75.08661}
+        - {x: -78.099976, y: 31.086609}
+        - {x: -78.099976, y: 0.08660889}
+        - {x: -61.099976, y: -78.91339}
+        - {x: 70.900024, y: -78.91339}
+        - {x: 79.900024, y: -77.91339}
+        - {x: 79.900024, y: 50.08661}
+        - {x: 13.900024, y: 79.08661}
+    - name: SstarSpriteList_29
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 925
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.299988, y: 81.08661}
+        - {x: -81.29999, y: 32.08661}
+        - {x: -81.29999, y: -6.913391}
+        - {x: -60.299988, y: -72.91339}
+        - {x: -50.299988, y: -81.91339}
+        - {x: 60.700012, y: -81.91339}
+        - {x: 81.70001, y: 0.08660889}
+        - {x: 81.70001, y: 33.08661}
+        - {x: 28.700012, y: 81.08661}
+    - name: SstarSpriteList_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 694
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 82.78662}
+        - {x: -18, y: 82.78662}
+        - {x: -83, y: 41.78662}
+        - {x: -83, y: -84.21338}
+        - {x: 75, y: -84.21338}
+        - {x: 84, y: -42.21338}
+        - {x: 84, y: 43.78662}
+        - {x: 21, y: 79.78662}
+    - name: SstarSpriteList_31
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 694
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.300003, y: 84.78662}
+        - {x: -26.699997, y: 84.78662}
+        - {x: -83.7, y: 46.78662}
+        - {x: -83.7, y: -86.21338}
+        - {x: 72.3, y: -86.21338}
+        - {x: 87.3, y: -27.213379}
+        - {x: 87.3, y: 34.78662}
+        - {x: 85.3, y: 40.78662}
+    - name: SstarSpriteList_32
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 694
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 88.100006, y: -67.21338}
+        - {x: 88.100006, y: 86.78662}
+        - {x: -72.899994, y: 86.78662}
+        - {x: -85.899994, y: 58.78662}
+        - {x: -85.899994, y: -35.21338}
+        - {x: -55.899994, y: -87.21338}
+        - {x: 67.100006, y: -87.21338}
+    - name: SstarSpriteList_33
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 694
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.099976, y: 87.78662}
+        - {x: -83.099976, y: 36.78662}
+        - {x: -87.099976, y: 24.786621}
+        - {x: -87.099976, y: -5.213379}
+        - {x: -62.099976, y: -88.21338}
+        - {x: 78.900024, y: -88.21338}
+        - {x: 88.900024, y: -70.21338}
+        - {x: 88.900024, y: 44.78662}
+        - {x: 37.900024, y: 87.78662}
+    - name: SstarSpriteList_34
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 694
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.299988, y: 87.78662}
+        - {x: -10.299988, y: 86.78662}
+        - {x: -87.29999, y: 35.78662}
+        - {x: -87.29999, y: -62.21338}
+        - {x: -83.29999, y: -88.21338}
+        - {x: 65.70001, y: -88.21338}
+        - {x: 88.70001, y: -21.213379}
+        - {x: 88.70001, y: 35.78662}
+        - {x: 14.700012, y: 87.78662}
+    - name: SstarSpriteList_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 463
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 87.9866}
+        - {x: -58, y: 87.9866}
+        - {x: -88, y: 53.986603}
+        - {x: -88, y: -25.013397}
+        - {x: -69, y: -88.0134}
+        - {x: 62, y: -88.0134}
+        - {x: 88, y: -25.013397}
+        - {x: 88, y: 56.986603}
+        - {x: 84, y: 68.9866}
+    - name: SstarSpriteList_36
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 463
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.300003, y: 87.9866}
+        - {x: -30.699997, y: 87.9866}
+        - {x: -86.7, y: 52.986603}
+        - {x: -86.7, y: -35.013397}
+        - {x: -61.699997, y: -88.0134}
+        - {x: 60.300003, y: -88.0134}
+        - {x: 66.3, y: -82.0134}
+        - {x: 89.3, y: 6.986603}
+        - {x: 89.3, y: 29.986603}
+    - name: SstarSpriteList_37
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 463
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.899994, y: 87.9866}
+        - {x: -86.899994, y: 43.986603}
+        - {x: -86.899994, y: -70.0134}
+        - {x: -79.899994, y: -88.0134}
+        - {x: 67.100006, y: -88.0134}
+        - {x: 89.100006, y: -5.013397}
+        - {x: 89.100006, y: 41.986603}
+        - {x: 12.100006, y: 87.9866}
+    - name: SstarSpriteList_38
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 463
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.099976, y: 86.9866}
+        - {x: -86.099976, y: 48.986603}
+        - {x: -86.099976, y: -33.013397}
+        - {x: -69.099976, y: -87.0134}
+        - {x: 62.900024, y: -87.0134}
+        - {x: 87.900024, y: -48.013397}
+        - {x: 87.900024, y: 52.986603}
+        - {x: 55.900024, y: 86.9866}
+    - name: SstarSpriteList_39
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 463
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.299988, y: 84.9866}
+        - {x: -85.29999, y: 25.986603}
+        - {x: -85.29999, y: -85.0134}
+        - {x: 69.70001, y: -85.0134}
+        - {x: 85.70001, y: -20.013397}
+        - {x: 85.70001, y: 39.986603}
+        - {x: 10.700012, y: 84.9866}
+    - name: SstarSpriteList_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 83.186584}
+        - {x: -26, y: 83.186584}
+        - {x: -78, y: 32.186584}
+        - {x: -82, y: 27.186584}
+        - {x: -82, y: -81.813416}
+        - {x: 59, y: -81.813416}
+        - {x: 61, y: -77.813416}
+        - {x: 83, y: -20.813416}
+        - {x: 83, y: 39.186584}
+    - name: SstarSpriteList_41
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 232
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.699997, y: 78.186584}
+        - {x: -75.7, y: 52.186584}
+        - {x: -75.7, y: -76.813416}
+        - {x: 67.3, y: -76.813416}
+        - {x: 79.3, y: -42.813416}
+        - {x: 79.3, y: 31.186584}
+        - {x: 42.300003, y: 78.186584}
+    - name: SstarSpriteList_42
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 232
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.899994, y: 70.186584}
+        - {x: -65.899994, y: 35.186584}
+        - {x: -68.899994, y: 26.186584}
+        - {x: -68.899994, y: -53.813416}
+        - {x: -66.899994, y: -69.813416}
+        - {x: 56.100006, y: -69.813416}
+        - {x: 71.100006, y: -5.8134155}
+        - {x: 71.100006, y: 38.186584}
+        - {x: 14.100006, y: 70.186584}
+    - name: SstarSpriteList_43
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 232
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.099976, y: 67.186584}
+        - {x: -66.099976, y: 52.186584}
+        - {x: -66.099976, y: -65.813416}
+        - {x: 48.900024, y: -65.813416}
+        - {x: 66.900024, y: -11.813416}
+        - {x: 66.900024, y: 37.186584}
+        - {x: 30.900024, y: 67.186584}
+    - name: SstarSpriteList_44
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 232
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.700012, y: 65.186584}
+        - {x: -31.299988, y: 65.186584}
+        - {x: -64.29999, y: 47.186584}
+        - {x: -64.29999, y: -32.813416}
+        - {x: -44.299988, y: -64.813416}
+        - {x: 49.700012, y: -64.813416}
+        - {x: 60.700012, y: -60.813416}
+        - {x: 65.70001, y: 5.1865845}
+        - {x: 65.70001, y: 22.186584}
+    - name: SstarSpriteList_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 64.38658}
+        - {x: -64, y: 43.38658}
+        - {x: -64, y: -63.61342}
+        - {x: 50, y: -63.61342}
+        - {x: 64, y: -26.613419}
+        - {x: 64, y: 23.386581}
+        - {x: 33, y: 64.38658}
+    - name: SstarSpriteList_46
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.699997, y: 64.38658}
+        - {x: -14.699997, y: 61.38658}
+        - {x: -62.699997, y: 30.386581}
+        - {x: -62.699997, y: -6.6134186}
+        - {x: -56.699997, y: -38.61342}
+        - {x: -43.699997, y: -63.61342}
+        - {x: 43.300003, y: -63.61342}
+        - {x: 65.3, y: 2.3865814}
+        - {x: 65.3, y: 32.38658}
+        - {x: 16.300003, y: 64.38658}
+    - name: SstarSpriteList_47
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.100006, y: 64.38658}
+        - {x: -9.899994, y: 64.38658}
+        - {x: -62.899994, y: 28.386581}
+        - {x: -62.899994, y: -14.613419}
+        - {x: -45.899994, y: -55.61342}
+        - {x: -35.899994, y: -63.61342}
+        - {x: 52.100006, y: -63.61342}
+        - {x: 65.100006, y: -21.613419}
+        - {x: 65.100006, y: 34.38658}
+        - {x: 15.100006, y: 61.38658}
+    - name: SstarSpriteList_48
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.900024, y: 64.38658}
+        - {x: -33.099976, y: 64.38658}
+        - {x: -63.099976, y: 51.38658}
+        - {x: -63.099976, y: -60.61342}
+        - {x: -56.099976, y: -63.61342}
+        - {x: 48.900024, y: -63.61342}
+        - {x: 64.900024, y: -6.6134186}
+        - {x: 64.900024, y: 25.386581}
+        - {x: 61.900024, y: 34.38658}
+    - name: SstarSpriteList_49
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1
+        width: 230
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.299988, y: 64.38658}
+        - {x: -63.299988, y: 37.38658}
+        - {x: -63.299988, y: -17.613419}
+        - {x: -47.299988, y: -63.61342}
+        - {x: 45.700012, y: -63.61342}
+        - {x: 64.70001, y: -27.613419}
+        - {x: 64.70001, y: 32.38658}
+        - {x: 37.700012, y: 64.38658}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

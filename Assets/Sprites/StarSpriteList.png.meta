@@ -1,0 +1,1094 @@
+fileFormatVersion: 2
+guid: f7696c03b287f41b18c05691ae2c05db
+timeCreated: 1470930891
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: StarSpriteList_0
+    21300002: StarSpriteList_1
+    21300004: StarSpriteList_2
+    21300006: StarSpriteList_3
+    21300008: StarSpriteList_4
+    21300010: StarSpriteList_5
+    21300012: StarSpriteList_6
+    21300014: StarSpriteList_7
+    21300016: StarSpriteList_8
+    21300018: StarSpriteList_9
+    21300020: StarSpriteList_10
+    21300022: StarSpriteList_11
+    21300024: StarSpriteList_12
+    21300026: StarSpriteList_13
+    21300028: StarSpriteList_14
+    21300030: StarSpriteList_15
+    21300032: StarSpriteList_16
+    21300034: StarSpriteList_17
+    21300036: StarSpriteList_18
+    21300038: StarSpriteList_19
+    21300040: StarSpriteList_20
+    21300042: StarSpriteList_21
+    21300044: StarSpriteList_22
+    21300046: StarSpriteList_23
+    21300048: StarSpriteList_24
+    21300050: StarSpriteList_25
+    21300052: StarSpriteList_26
+    21300054: StarSpriteList_27
+    21300056: StarSpriteList_28
+    21300058: StarSpriteList_29
+    21300060: StarSpriteList_30
+    21300062: StarSpriteList_31
+    21300064: StarSpriteList_32
+    21300066: StarSpriteList_33
+    21300068: StarSpriteList_34
+    21300070: StarSpriteList_35
+    21300072: StarSpriteList_36
+    21300074: StarSpriteList_37
+    21300076: StarSpriteList_38
+    21300078: StarSpriteList_39
+    21300080: StarSpriteList_40
+    21300082: StarSpriteList_41
+    21300084: StarSpriteList_42
+    21300086: StarSpriteList_43
+    21300088: StarSpriteList_44
+    21300090: StarSpriteList_45
+    21300092: StarSpriteList_46
+    21300094: StarSpriteList_47
+    21300096: StarSpriteList_48
+    21300098: StarSpriteList_49
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: StarSpriteList_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2260
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 64.01599}
+        - {x: -64, y: 22.015991}
+        - {x: -64, y: -14.984009}
+        - {x: -58, y: -63.98401}
+        - {x: 64, y: -63.98401}
+        - {x: 64, y: 61.01599}
+        - {x: 51, y: 64.01599}
+    - name: StarSpriteList_1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2260
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.699997, y: 64.01599}
+        - {x: -62.699997, y: 54.01599}
+        - {x: -62.699997, y: -63.98401}
+        - {x: 44.300003, y: -63.98401}
+        - {x: 65.3, y: -4.984009}
+        - {x: 65.3, y: 35.01599}
+        - {x: 13.300003, y: 64.01599}
+    - name: StarSpriteList_2
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 2260
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.899994, y: 64.01599}
+        - {x: -62.899994, y: 31.015991}
+        - {x: -62.899994, y: -6.984009}
+        - {x: -56.899994, y: -23.984009}
+        - {x: -41.899994, y: -63.98401}
+        - {x: 56.100006, y: -63.98401}
+        - {x: 65.100006, y: -32.98401}
+        - {x: 65.100006, y: 39.01599}
+        - {x: 15.100006, y: 64.01599}
+    - name: StarSpriteList_3
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 2260
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.900024, y: 64.01599}
+        - {x: -21.099976, y: 64.01599}
+        - {x: -63.099976, y: 24.015991}
+        - {x: -63.099976, y: -7.984009}
+        - {x: -44.099976, y: -63.98401}
+        - {x: 47.900024, y: -63.98401}
+        - {x: 64.900024, y: -10.984009}
+        - {x: 64.900024, y: 26.015991}
+        - {x: 62.900024, y: 34.01599}
+    - name: StarSpriteList_4
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 2260
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.299988, y: 64.01599}
+        - {x: -63.299988, y: 41.01599}
+        - {x: -63.299988, y: -25.984009}
+        - {x: -44.299988, y: -63.98401}
+        - {x: 47.700012, y: -63.98401}
+        - {x: 64.70001, y: -6.984009}
+        - {x: 64.70001, y: 23.015991}
+        - {x: 34.700012, y: 64.01599}
+    - name: StarSpriteList_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2009
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 63.715942}
+        - {x: -64, y: 53.715942}
+        - {x: -64, y: -64.28406}
+        - {x: 50, y: -64.28406}
+        - {x: 64, y: -26.284058}
+        - {x: 64, y: 31.715942}
+        - {x: 11, y: 63.715942}
+    - name: StarSpriteList_6
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2009
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.300003, y: 63.715942}
+        - {x: -29.699997, y: 63.715942}
+        - {x: -62.699997, y: 53.715942}
+        - {x: -62.699997, y: -34.284058}
+        - {x: -56.699997, y: -64.28406}
+        - {x: 40.300003, y: -64.28406}
+        - {x: 47.300003, y: -56.284058}
+        - {x: 65.3, y: -8.284058}
+        - {x: 65.3, y: 27.715942}
+    - name: StarSpriteList_7
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 2009
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.899994, y: 63.715942}
+        - {x: -62.899994, y: 51.715942}
+        - {x: -62.899994, y: -22.284058}
+        - {x: -43.899994, y: -64.28406}
+        - {x: 48.100006, y: -64.28406}
+        - {x: 65.100006, y: -42.284058}
+        - {x: 65.100006, y: 43.715942}
+        - {x: 47.100006, y: 63.715942}
+    - name: StarSpriteList_8
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 2009
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.099976, y: 63.715942}
+        - {x: -63.099976, y: 39.715942}
+        - {x: -63.099976, y: -18.284058}
+        - {x: -55.099976, y: -64.28406}
+        - {x: 50.900024, y: -64.28406}
+        - {x: 64.900024, y: -1.2840576}
+        - {x: 64.900024, y: 27.715942}
+        - {x: 27.900024, y: 63.715942}
+    - name: StarSpriteList_9
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 2009
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.299988, y: 63.715942}
+        - {x: -63.299988, y: 22.715942}
+        - {x: -63.299988, y: 2.7159424}
+        - {x: -46.299988, y: -64.28406}
+        - {x: 53.700012, y: -64.28406}
+        - {x: 62.700012, y: -62.284058}
+        - {x: 64.70001, y: -43.284058}
+        - {x: 64.70001, y: 22.715942}
+        - {x: 14.700012, y: 63.715942}
+    - name: StarSpriteList_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1758
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63, y: 28.916016}
+        - {x: 26, y: 63.916016}
+        - {x: -26, y: 63.916016}
+        - {x: -64, y: 41.916016}
+        - {x: -64, y: -7.0839844}
+        - {x: -51, y: -60.083984}
+        - {x: -40, y: -64.083984}
+        - {x: 52, y: -64.083984}
+        - {x: 64, y: -36.083984}
+        - {x: 64, y: 27.916016}
+    - name: StarSpriteList_11
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1758
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.300003, y: 61.916016}
+        - {x: 7.300003, y: 63.916016}
+        - {x: -7.699997, y: 63.916016}
+        - {x: -62.699997, y: 24.916016}
+        - {x: -62.699997, y: -14.083984}
+        - {x: -49.699997, y: -64.083984}
+        - {x: 44.300003, y: -64.083984}
+        - {x: 46.300003, y: -60.083984}
+        - {x: 65.3, y: -12.083984}
+        - {x: 65.3, y: 27.916016}
+    - name: StarSpriteList_12
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1758
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65.100006, y: 19.916016}
+        - {x: 32.100006, y: 63.916016}
+        - {x: -30.899994, y: 63.916016}
+        - {x: -62.899994, y: 48.916016}
+        - {x: -62.899994, y: -7.0839844}
+        - {x: -46.899994, y: -57.083984}
+        - {x: -39.899994, y: -64.083984}
+        - {x: 40.100006, y: -64.083984}
+        - {x: 46.100006, y: -62.083984}
+        - {x: 46.100006, y: -42.083984}
+        - {x: 65.100006, y: 3.9160156}
+    - name: StarSpriteList_13
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1758
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.099976, y: 63.916016}
+        - {x: -63.099976, y: 49.916016}
+        - {x: -63.099976, y: -43.083984}
+        - {x: -59.099976, y: -64.083984}
+        - {x: 64.900024, y: -64.083984}
+        - {x: 64.900024, y: 40.916016}
+        - {x: 8.900024, y: 63.916016}
+    - name: StarSpriteList_14
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1758
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.700012, y: 63.916016}
+        - {x: -17.299988, y: 63.916016}
+        - {x: -63.299988, y: 27.916016}
+        - {x: -63.299988, y: -37.083984}
+        - {x: -59.299988, y: -64.083984}
+        - {x: 44.700012, y: -64.083984}
+        - {x: 64.70001, y: -34.083984}
+        - {x: 64.70001, y: 33.916016}
+    - name: StarSpriteList_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1507
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 64.11597}
+        - {x: -64, y: 28.115967}
+        - {x: -64, y: -38.884033}
+        - {x: -58, y: -63.884033}
+        - {x: 50, y: -63.884033}
+        - {x: 64, y: -32.884033}
+        - {x: 64, y: 24.115967}
+        - {x: 19, y: 64.11597}
+    - name: StarSpriteList_16
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1507
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.699997, y: 64.11597}
+        - {x: -62.699997, y: 54.115967}
+        - {x: -62.699997, y: -63.884033}
+        - {x: 48.300003, y: -63.884033}
+        - {x: 65.3, y: -25.884033}
+        - {x: 65.3, y: 29.115967}
+        - {x: 41.300003, y: 64.11597}
+    - name: StarSpriteList_17
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1507
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.100006, y: 64.11597}
+        - {x: -22.899994, y: 64.11597}
+        - {x: -62.899994, y: 50.115967}
+        - {x: -62.899994, y: -63.884033}
+        - {x: 62.100006, y: -63.884033}
+        - {x: 65.100006, y: -29.884033}
+        - {x: 65.100006, y: 38.115967}
+    - name: StarSpriteList_18
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1507
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.099976, y: 64.11597}
+        - {x: -63.099976, y: 43.115967}
+        - {x: -63.099976, y: -37.884033}
+        - {x: -59.099976, y: -63.884033}
+        - {x: 44.900024, y: -63.884033}
+        - {x: 64.900024, y: -10.884033}
+        - {x: 64.900024, y: 28.115967}
+        - {x: 13.900024, y: 64.11597}
+    - name: StarSpriteList_19
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1507
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.700012, y: 64.11597}
+        - {x: -8.299988, y: 64.11597}
+        - {x: -63.299988, y: 29.115967}
+        - {x: -63.299988, y: -6.884033}
+        - {x: -41.299988, y: -63.884033}
+        - {x: 44.700012, y: -63.884033}
+        - {x: 64.70001, y: 0.1159668}
+        - {x: 64.70001, y: 29.115967}
+    - name: StarSpriteList_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1256
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 64.31592}
+        - {x: -64, y: 52.315918}
+        - {x: -64, y: -25.684082}
+        - {x: -55, y: -63.684082}
+        - {x: 64, y: -63.684082}
+        - {x: 64, y: 40.315918}
+        - {x: 33, y: 64.31592}
+    - name: StarSpriteList_21
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1256
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66.3, y: 22.315918}
+        - {x: 46.300003, y: 31.315918}
+        - {x: 16.300003, y: 61.315918}
+        - {x: 8.300003, y: 65.31592}
+        - {x: -18.699997, y: 65.31592}
+        - {x: -62.699997, y: 30.315918}
+        - {x: -62.699997, y: -8.684082}
+        - {x: -41.699997, y: -63.684082}
+        - {x: 39.300003, y: -63.684082}
+        - {x: 47.300003, y: -60.684082}
+        - {x: 46.300003, y: -46.684082}
+        - {x: 66.3, y: 6.315918}
+    - name: StarSpriteList_22
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1256
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.100006, y: 65.31592}
+        - {x: -7.899994, y: 65.31592}
+        - {x: -63.899994, y: 34.315918}
+        - {x: -63.899994, y: -42.684082}
+        - {x: -56.899994, y: -64.68408}
+        - {x: 50.100006, y: -64.68408}
+        - {x: 57.100006, y: -60.684082}
+        - {x: 66.100006, y: 1.315918}
+        - {x: 66.100006, y: 25.315918}
+    - name: StarSpriteList_23
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1256
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.9000244, y: 67.31592}
+        - {x: -2.0999756, y: 67.31592}
+        - {x: -5.0999756, y: 66.31592}
+        - {x: -11.099976, y: 59.315918}
+        - {x: -66.099976, y: 22.315918}
+        - {x: -66.099976, y: 8.315918}
+        - {x: -47.099976, y: -62.684082}
+        - {x: -41.099976, y: -65.68408}
+        - {x: 63.900024, y: -65.68408}
+        - {x: 66.900024, y: -36.684082}
+        - {x: 66.900024, y: 46.315918}
+    - name: StarSpriteList_24
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1256
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.299988, y: 68.31592}
+        - {x: -67.29999, y: 33.315918}
+        - {x: -67.29999, y: -27.684082}
+        - {x: -60.299988, y: -55.684082}
+        - {x: -51.299988, y: -67.68408}
+        - {x: 55.700012, y: -67.68408}
+        - {x: 68.70001, y: -41.684082}
+        - {x: 68.70001, y: 34.315918}
+        - {x: 37.700012, y: 68.31592}
+    - name: StarSpriteList_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1005
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 70.01593}
+        - {x: -14, y: 70.01593}
+        - {x: -70, y: 22.01593}
+        - {x: -70, y: -70.98407}
+        - {x: 62, y: -70.98407}
+        - {x: 64, y: -58.98407}
+        - {x: 71, y: -15.98407}
+        - {x: 71, y: 43.01593}
+    - name: StarSpriteList_26
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1005
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.699997, y: 73.01593}
+        - {x: -71.7, y: 39.01593}
+        - {x: -71.7, y: -33.98407}
+        - {x: -58.699997, y: -73.98407}
+        - {x: 61.300003, y: -73.98407}
+        - {x: 75.3, y: -33.98407}
+        - {x: 75.3, y: 26.01593}
+        - {x: 33.300003, y: 73.01593}
+    - name: StarSpriteList_27
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1005
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53.100006, y: 76.01593}
+        - {x: -48.899994, y: 76.01593}
+        - {x: -75.899994, y: 67.01593}
+        - {x: -75.899994, y: -14.98407}
+        - {x: -49.899994, y: -76.98407}
+        - {x: 52.100006, y: -76.98407}
+        - {x: 65.100006, y: -43.98407}
+        - {x: 78.100006, y: 2.0159302}
+        - {x: 78.100006, y: 30.01593}
+    - name: StarSpriteList_28
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1005
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.900024, y: 79.01593}
+        - {x: -8.099976, y: 79.01593}
+        - {x: -34.099976, y: 69.01593}
+        - {x: -79.099976, y: 28.01593}
+        - {x: -79.099976, y: -32.98407}
+        - {x: -55.099976, y: -76.98407}
+        - {x: -45.099976, y: -79.98407}
+        - {x: 55.900024, y: -79.98407}
+        - {x: 79.900024, y: 1.0159302}
+        - {x: 79.900024, y: 33.01593}
+    - name: StarSpriteList_29
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1005
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 82.70001, y: 38.01593}
+        - {x: 36.700012, y: 82.01593}
+        - {x: -26.299988, y: 82.01593}
+        - {x: -81.29999, y: 39.01593}
+        - {x: -81.29999, y: -10.98407}
+        - {x: -57.299988, y: -72.98407}
+        - {x: -50.299988, y: -81.98407}
+        - {x: 48.700012, y: -81.98407}
+        - {x: 58.700012, y: -77.98407}
+        - {x: 82.70001, y: -34.98407}
+    - name: StarSpriteList_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 754
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 83.71594}
+        - {x: -84, y: 49.715942}
+        - {x: -84, y: -6.2840576}
+        - {x: -59, y: -75.28406}
+        - {x: -53, y: -85.28406}
+        - {x: 64, y: -85.28406}
+        - {x: 85, y: -35.284058}
+        - {x: 85, y: 32.715942}
+        - {x: 33, y: 83.71594}
+    - name: StarSpriteList_31
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 754
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.699997, y: 85.71594}
+        - {x: -84.7, y: 44.715942}
+        - {x: -84.7, y: -30.284058}
+        - {x: -70.7, y: -86.28406}
+        - {x: 70.3, y: -86.28406}
+        - {x: 87.3, y: -56.284058}
+        - {x: 87.3, y: 60.715942}
+        - {x: 26.300003, y: 85.71594}
+    - name: StarSpriteList_32
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 754
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.899994, y: 86.71594}
+        - {x: -85.899994, y: 34.715942}
+        - {x: -85.899994, y: -44.284058}
+        - {x: -78.899994, y: -88.28406}
+        - {x: 76.100006, y: -88.28406}
+        - {x: 88.100006, y: -20.284058}
+        - {x: 88.100006, y: 41.715942}
+        - {x: 13.100006, y: 86.71594}
+    - name: StarSpriteList_33
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 754
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.900024, y: 87.71594}
+        - {x: -26.099976, y: 87.71594}
+        - {x: -88.099976, y: 55.715942}
+        - {x: -88.099976, y: -10.284058}
+        - {x: -73.099976, y: -89.28406}
+        - {x: 60.900024, y: -89.28406}
+        - {x: 71.900024, y: -68.28406}
+        - {x: 88.900024, y: -2.2840576}
+        - {x: 88.900024, y: 41.715942}
+    - name: StarSpriteList_34
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 754
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 88.70001, y: 39.715942}
+        - {x: 13.700012, y: 88.71594}
+        - {x: -22.299988, y: 88.71594}
+        - {x: -81.29999, y: 40.715942}
+        - {x: -88.29999, y: 25.715942}
+        - {x: -88.29999, y: -8.284058}
+        - {x: -63.299988, y: -77.28406}
+        - {x: -53.299988, y: -89.28406}
+        - {x: 75.70001, y: -89.28406}
+        - {x: 89.70001, y: -69.28406}
+        - {x: 89.70001, y: 38.715942}
+    - name: StarSpriteList_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 503
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 88.915955}
+        - {x: -89, y: 55.915955}
+        - {x: -89, y: -8.084045}
+        - {x: -69, y: -67.084045}
+        - {x: -56, y: -89.084045}
+        - {x: 74, y: -89.084045}
+        - {x: 90, y: -48.084045}
+        - {x: 90, y: 55.915955}
+        - {x: 43, y: 88.915955}
+    - name: StarSpriteList_36
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 503
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.300003, y: 88.915955}
+        - {x: -27.699997, y: 88.915955}
+        - {x: -87.7, y: 52.915955}
+        - {x: -87.7, y: -48.084045}
+        - {x: -76.7, y: -89.084045}
+        - {x: 67.3, y: -89.084045}
+        - {x: 86.3, y: -80.084045}
+        - {x: 90.3, y: -55.084045}
+        - {x: 90.3, y: 59.915955}
+    - name: StarSpriteList_37
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 503
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.100006, y: 87.915955}
+        - {x: -22.899994, y: 87.915955}
+        - {x: -79.899994, y: 33.915955}
+        - {x: -86.899994, y: 26.915955}
+        - {x: -86.899994, y: -20.084045}
+        - {x: -82.899994, y: -88.084045}
+        - {x: 73.100006, y: -88.084045}
+        - {x: 89.100006, y: -33.084045}
+        - {x: 89.100006, y: 42.915955}
+        - {x: 86.100006, y: 50.915955}
+    - name: StarSpriteList_38
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 503
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.900024, y: 87.915955}
+        - {x: -16.099976, y: 87.915955}
+        - {x: -87.099976, y: 27.915955}
+        - {x: -87.099976, y: -16.084045}
+        - {x: -56.099976, y: -88.084045}
+        - {x: 68.900024, y: -88.084045}
+        - {x: 88.900024, y: -30.084045}
+        - {x: 88.900024, y: 29.915955}
+        - {x: 25.900024, y: 80.915955}
+    - name: StarSpriteList_39
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 503
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.299988, y: 86.915955}
+        - {x: -86.29999, y: 59.915955}
+        - {x: -86.29999, y: -4.0840454}
+        - {x: -60.299988, y: -76.084045}
+        - {x: -51.299988, y: -87.084045}
+        - {x: 61.700012, y: -87.084045}
+        - {x: 86.70001, y: -11.084045}
+        - {x: 86.70001, y: 47.915955}
+        - {x: 52.700012, y: 86.915955}
+    - name: StarSpriteList_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 84.11594}
+        - {x: -34, y: 84.11594}
+        - {x: -83, y: 47.115936}
+        - {x: -83, y: -33.884064}
+        - {x: -72, y: -82.88406}
+        - {x: 62, y: -82.88406}
+        - {x: 84, y: -18.884064}
+        - {x: 84, y: 47.115936}
+        - {x: 82, y: 54.115936}
+    - name: StarSpriteList_41
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 252
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.699997, y: 78.11594}
+        - {x: -75.7, y: 37.115936}
+        - {x: -75.7, y: -36.884064}
+        - {x: -64.7, y: -76.88406}
+        - {x: 65.3, y: -76.88406}
+        - {x: 79.3, y: -52.884064}
+        - {x: 79.3, y: 54.115936}
+        - {x: 23.300003, y: 78.11594}
+    - name: StarSpriteList_42
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 252
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71.100006, y: 39.115936}
+        - {x: 21.100006, y: 71.11594}
+        - {x: -37.899994, y: 71.11594}
+        - {x: -69.899994, y: 33.115936}
+        - {x: -69.899994, y: -60.884064}
+        - {x: -66.899994, y: -70.88406}
+        - {x: 52.100006, y: -70.88406}
+        - {x: 57.100006, y: -63.884064}
+        - {x: 72.100006, y: -14.884064}
+        - {x: 72.100006, y: 36.115936}
+    - name: StarSpriteList_43
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 252
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.0999756, y: 68.11594}
+        - {x: -12.099976, y: 66.11594}
+        - {x: -67.099976, y: 29.115936}
+        - {x: -67.099976, y: -4.8840637}
+        - {x: -49.099976, y: -66.88406}
+        - {x: 45.900024, y: -66.88406}
+        - {x: 67.900024, y: -6.8840637}
+        - {x: 67.900024, y: 29.115936}
+        - {x: 14.900024, y: 68.11594}
+    - name: StarSpriteList_44
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 252
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.299988, y: 66.11594}
+        - {x: -65.29999, y: 39.115936}
+        - {x: -65.29999, y: -48.884064}
+        - {x: -60.299988, y: -64.88406}
+        - {x: 50.700012, y: -64.88406}
+        - {x: 65.70001, y: 3.1159363}
+        - {x: 65.70001, y: 27.115936}
+        - {x: 25.700012, y: 66.11594}
+    - name: StarSpriteList_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 65.31593}
+        - {x: -64, y: 31.315933}
+        - {x: -64, y: -13.684067}
+        - {x: -46, y: -56.684067}
+        - {x: -42, y: -63.684067}
+        - {x: 56, y: -63.684067}
+        - {x: 65, y: -42.684067}
+        - {x: 65, y: 28.315933}
+        - {x: 17, y: 65.31593}
+    - name: StarSpriteList_46
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66.3, y: 22.315933}
+        - {x: 46.300003, y: 31.315933}
+        - {x: 16.300003, y: 61.315933}
+        - {x: 8.300003, y: 65.31593}
+        - {x: -18.699997, y: 65.31593}
+        - {x: -62.699997, y: 30.315933}
+        - {x: -62.699997, y: -8.684067}
+        - {x: -41.699997, y: -63.684067}
+        - {x: 39.300003, y: -63.684067}
+        - {x: 47.300003, y: -60.684067}
+        - {x: 46.300003, y: -46.684067}
+        - {x: 66.3, y: 6.315933}
+    - name: StarSpriteList_47
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.899994, y: 64.31593}
+        - {x: -62.899994, y: 39.315933}
+        - {x: -62.899994, y: -63.684067}
+        - {x: 58.100006, y: -63.684067}
+        - {x: 65.100006, y: -4.684067}
+        - {x: 65.100006, y: 21.315933}
+        - {x: 27.100006, y: 64.31593}
+    - name: StarSpriteList_48
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.900024, y: 64.31593}
+        - {x: -21.099976, y: 64.31593}
+        - {x: -63.099976, y: 39.315933}
+        - {x: -63.099976, y: -63.684067}
+        - {x: 47.900024, y: -63.684067}
+        - {x: 49.900024, y: -57.684067}
+        - {x: 64.900024, y: 3.3159332}
+        - {x: 64.900024, y: 21.315933}
+    - name: StarSpriteList_49
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.299988, y: 64.31593}
+        - {x: -19.299988, y: 48.315933}
+        - {x: -63.299988, y: 22.315933}
+        - {x: -63.299988, y: -63.684067}
+        - {x: 57.700012, y: -63.684067}
+        - {x: 64.70001, y: -20.684067}
+        - {x: 64.70001, y: 27.315933}
+        - {x: 9.700012, y: 64.31593}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

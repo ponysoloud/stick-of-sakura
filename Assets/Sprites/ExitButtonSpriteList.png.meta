@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: eac9676816f644067b96e539e3ccecdf
+timeCreated: 1472218201
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ExitButtonSpriteList_0
+    21300002: ExitButtonSpriteList_1
+    21300004: ExitButtonSpriteList_2
+    21300006: ExitButtonSpriteList_3
+    21300008: ExitButtonSpriteList_4
+    21300010: ExitButtonSpriteList_5
+    21300012: ExitButtonSpriteList_6
+    21300014: ExitButtonSpriteList_7
+    21300016: ExitButtonSpriteList_8
+    21300018: ExitButtonSpriteList_9
+    21300020: ExitButtonSpriteList_10
+    21300022: ExitButtonSpriteList_11
+    21300024: ExitButtonSpriteList_12
+    21300026: ExitButtonSpriteList_13
+    21300028: ExitButtonSpriteList_14
+    21300030: ExitButtonSpriteList_15
+    21300032: ExitButtonSpriteList_16
+    21300034: ExitButtonSpriteList_17
+    21300036: ExitButtonSpriteList_18
+    21300038: ExitButtonSpriteList_19
+    21300040: ExitButtonSpriteList_20
+    21300042: ExitButtonSpriteList_21
+    21300044: ExitButtonSpriteList_22
+    21300046: ExitButtonSpriteList_23
+    21300048: ExitButtonSpriteList_24
+    21300050: ExitButtonSpriteList_25
+    21300052: ExitButtonSpriteList_26
+    21300054: ExitButtonSpriteList_27
+    21300056: ExitButtonSpriteList_28
+    21300058: ExitButtonSpriteList_29
+    21300060: ExitButtonSpriteList_30
+    21300062: ExitButtonSpriteList_31
+    21300064: ExitButtonSpriteList_32
+    21300066: ExitButtonSpriteList_33
+    21300068: ExitButtonSpriteList_34
+    21300070: ExitButtonSpriteList_35
+    21300072: ExitButtonSpriteList_36
+    21300074: ExitButtonSpriteList_37
+    21300076: ExitButtonSpriteList_38
+    21300078: ExitButtonSpriteList_39
+    21300080: ExitButtonSpriteList_40
+    21300082: ExitButtonSpriteList_41
+    21300084: ExitButtonSpriteList_42
+    21300086: ExitButtonSpriteList_43
+    21300088: ExitButtonSpriteList_44
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ExitButtonSpriteList_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1089
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.5, y: 16.5}
+        - {x: -67.5, y: 14.5}
+        - {x: -67.5, y: -17.5}
+        - {x: -34.5, y: -17.5}
+        - {x: -32.5, y: -11.5}
+        - {x: -32.5, y: 13.5}
+        - {x: -37.5, y: 16.5}
+      - - {x: -11.5, y: 16.5}
+        - {x: -16.5, y: 8.5}
+        - {x: -16.5, y: -7.5}
+        - {x: -13.5, y: -17.5}
+        - {x: 15.5, y: -17.5}
+        - {x: 17.5, y: -9.5}
+        - {x: 17.5, y: 12.5}
+        - {x: 13.5, y: 16.5}
+      - - {x: 43.5, y: 16.5}
+        - {x: 33.5, y: 13.5}
+        - {x: 33.5, y: -15.5}
+        - {x: 37.5, y: -17.5}
+        - {x: 63.5, y: -17.5}
+        - {x: 67.5, y: -11.5}
+        - {x: 67.5, y: 10.5}
+        - {x: 59.5, y: 16.5}
+    - name: ExitButtonSpriteList_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1089
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.5, y: -5.5}
+        - {x: -62.5, y: -15.5}
+        - {x: -61.5, y: -17.5}
+        - {x: -35.5, y: -17.5}
+        - {x: -31.5, y: -15.5}
+        - {x: -31.5, y: 8.5}
+        - {x: -37.5, y: 16.5}
+        - {x: -58.5, y: 16.5}
+        - {x: -66.5, y: 7.5}
+      - - {x: 7.5, y: 16.5}
+        - {x: -12.5, y: 16.5}
+        - {x: -16.5, y: 7.5}
+        - {x: -16.5, y: -11.5}
+        - {x: -10.5, y: -17.5}
+        - {x: 11.5, y: -17.5}
+        - {x: 17.5, y: -10.5}
+        - {x: 17.5, y: 8.5}
+        - {x: 16.5, y: 10.5}
+      - - {x: 35.5, y: 16.5}
+        - {x: 33.5, y: 8.5}
+        - {x: 33.5, y: -10.5}
+        - {x: 40.5, y: -16.5}
+        - {x: 43.5, y: -17.5}
+        - {x: 58.5, y: -17.5}
+        - {x: 67.5, y: -11.5}
+        - {x: 67.5, y: 10.5}
+        - {x: 61.5, y: 16.5}
+    - name: ExitButtonSpriteList_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1089
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.5, y: 16.5}
+        - {x: -64.5, y: 11.5}
+        - {x: -64.5, y: -12.5}
+        - {x: -53.5, y: -17.5}
+        - {x: -33.5, y: -17.5}
+        - {x: -28.5, y: -13.5}
+        - {x: -28.5, y: 12.5}
+        - {x: -33.5, y: 16.5}
+      - - {x: -11.5, y: 16.5}
+        - {x: -15.5, y: 10.5}
+        - {x: -16.5, y: 8.5}
+        - {x: -16.5, y: -10.5}
+        - {x: -9.5, y: -17.5}
+        - {x: 7.5, y: -17.5}
+        - {x: 17.5, y: -13.5}
+        - {x: 17.5, y: 12.5}
+        - {x: 9.5, y: 16.5}
+      - - {x: 42.5, y: 16.5}
+        - {x: 31.5, y: 12.5}
+        - {x: 31.5, y: -9.5}
+        - {x: 34.5, y: -17.5}
+        - {x: 56.5, y: -17.5}
+        - {x: 66.5, y: -10.5}
+        - {x: 66.5, y: 9.5}
+        - {x: 59.5, y: 16.5}
+    - name: ExitButtonSpriteList_3
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1089
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: 16.5}
+        - {x: -52.5, y: 16.5}
+        - {x: -61.5, y: 14.5}
+        - {x: -61.5, y: -11.5}
+        - {x: -51.5, y: -17.5}
+        - {x: -31.5, y: -17.5}
+        - {x: -25.5, y: -6.5}
+        - {x: -25.5, y: 7.5}
+        - {x: -32.5, y: 14.5}
+      - - {x: 8.5, y: 16.5}
+        - {x: -9.5, y: 16.5}
+        - {x: -10.5, y: 14.5}
+        - {x: -17.5, y: 6.5}
+        - {x: -17.5, y: -13.5}
+        - {x: -6.5, y: -17.5}
+        - {x: 10.5, y: -17.5}
+        - {x: 16.5, y: -11.5}
+        - {x: 18.5, y: -5.5}
+        - {x: 18.5, y: 13.5}
+      - - {x: 39.5, y: 16.5}
+        - {x: 35.5, y: 14.5}
+        - {x: 29.5, y: 7.5}
+        - {x: 29.5, y: -6.5}
+        - {x: 33.5, y: -17.5}
+        - {x: 57.5, y: -17.5}
+        - {x: 65.5, y: -8.5}
+        - {x: 65.5, y: 8.5}
+        - {x: 57.5, y: 16.5}
+    - name: ExitButtonSpriteList_4
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1089
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: 16.5}
+        - {x: -58.5, y: 8.5}
+        - {x: -58.5, y: -7.5}
+        - {x: -55.5, y: -15.5}
+        - {x: -47.5, y: -17.5}
+        - {x: -28.5, y: -17.5}
+        - {x: -22.5, y: -10.5}
+        - {x: -22.5, y: 5.5}
+        - {x: -26.5, y: 16.5}
+      - - {x: -13.5, y: 16.5}
+        - {x: -17.5, y: 6.5}
+        - {x: -17.5, y: -10.5}
+        - {x: -10.5, y: -17.5}
+        - {x: 12.5, y: -17.5}
+        - {x: 18.5, y: -9.5}
+        - {x: 18.5, y: 10.5}
+        - {x: 11.5, y: 16.5}
+      - - {x: 33.5, y: 16.5}
+        - {x: 27.5, y: 8.5}
+        - {x: 27.5, y: -8.5}
+        - {x: 28.5, y: -11.5}
+        - {x: 38.5, y: -17.5}
+        - {x: 52.5, y: -17.5}
+        - {x: 55.5, y: -16.5}
+        - {x: 63.5, y: -6.5}
+        - {x: 63.5, y: 11.5}
+        - {x: 53.5, y: 16.5}
+    - name: ExitButtonSpriteList_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 953
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.5, y: 16.5}
+        - {x: -55.5, y: 14.5}
+        - {x: -55.5, y: -9.5}
+        - {x: -50.5, y: -17.5}
+        - {x: 13.5, y: -17.5}
+        - {x: 19.5, y: -6.5}
+        - {x: 19.5, y: 7.5}
+        - {x: 11.5, y: 16.5}
+      - - {x: 28.5, y: 16.5}
+        - {x: 24.5, y: 9.5}
+        - {x: 24.5, y: -12.5}
+        - {x: 34.5, y: -17.5}
+        - {x: 55.5, y: -17.5}
+        - {x: 60.5, y: -11.5}
+        - {x: 60.5, y: 7.5}
+        - {x: 51.5, y: 16.5}
+    - name: ExitButtonSpriteList_6
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 953
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.5, y: 16.5}
+        - {x: -51.5, y: 13.5}
+        - {x: -51.5, y: -12.5}
+        - {x: -47.5, y: -17.5}
+        - {x: 57.5, y: -17.5}
+        - {x: 57.5, y: 14.5}
+        - {x: 56.5, y: 16.5}
+    - name: ExitButtonSpriteList_7
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 953
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.5, y: 16.5}
+        - {x: -48.5, y: 12.5}
+        - {x: -48.5, y: -12.5}
+        - {x: -45.5, y: -17.5}
+        - {x: 46.5, y: -17.5}
+        - {x: 54.5, y: -10.5}
+        - {x: 54.5, y: 8.5}
+        - {x: 51.5, y: 16.5}
+    - name: ExitButtonSpriteList_8
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 953
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 16.5}
+        - {x: -45.5, y: 15.5}
+        - {x: -45.5, y: -12.5}
+        - {x: -41.5, y: -17.5}
+        - {x: 49.5, y: -17.5}
+        - {x: 51.5, y: -11.5}
+        - {x: 51.5, y: 13.5}
+        - {x: 47.5, y: 16.5}
+    - name: ExitButtonSpriteList_9
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 953
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 16.5}
+        - {x: -41.5, y: 8.5}
+        - {x: -41.5, y: -13.5}
+        - {x: -37.5, y: -17.5}
+        - {x: 43.5, y: -17.5}
+        - {x: 47.5, y: -14.5}
+        - {x: 47.5, y: 9.5}
+        - {x: 43.5, y: 16.5}
+    - name: ExitButtonSpriteList_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 817
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 16.5}
+        - {x: -38.5, y: 11.5}
+        - {x: -38.5, y: -12.5}
+        - {x: -32.5, y: -17.5}
+        - {x: 37.5, y: -17.5}
+        - {x: 43.5, y: -11.5}
+        - {x: 43.5, y: 16.5}
+    - name: ExitButtonSpriteList_11
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 817
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 16.5}
+        - {x: -35.5, y: 8.5}
+        - {x: -35.5, y: -16.5}
+        - {x: -28.5, y: -17.5}
+        - {x: 37.5, y: -17.5}
+        - {x: 40.5, y: -11.5}
+        - {x: 40.5, y: 8.5}
+        - {x: 34.5, y: 16.5}
+    - name: ExitButtonSpriteList_12
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 817
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 16.5}
+        - {x: -32.5, y: 9.5}
+        - {x: -32.5, y: -17.5}
+        - {x: 36.5, y: -17.5}
+        - {x: 36.5, y: 7.5}
+        - {x: 31.5, y: 16.5}
+    - name: ExitButtonSpriteList_13
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 817
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 16.5}
+        - {x: -29.5, y: 9.5}
+        - {x: -29.5, y: -14.5}
+        - {x: -25.5, y: -17.5}
+        - {x: 26.5, y: -17.5}
+        - {x: 33.5, y: -11.5}
+        - {x: 33.5, y: 8.5}
+        - {x: 26.5, y: 16.5}
+    - name: ExitButtonSpriteList_14
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 817
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 16.5}
+        - {x: -26.5, y: 8.5}
+        - {x: -26.5, y: -14.5}
+        - {x: -21.5, y: -18.5}
+        - {x: 23.5, y: -18.5}
+        - {x: 29.5, y: -11.5}
+        - {x: 29.5, y: 4.5}
+        - {x: 25.5, y: 16.5}
+    - name: ExitButtonSpriteList_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 681
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.5, y: 6.5}
+        - {x: 17.5, y: 17.5}
+        - {x: -14.5, y: 17.5}
+        - {x: -23.5, y: 8.5}
+        - {x: -23.5, y: -10.5}
+        - {x: -13.5, y: -18.5}
+        - {x: 13.5, y: -18.5}
+        - {x: 20.5, y: -15.5}
+        - {x: 25.5, y: -9.5}
+        - {x: 26.5, y: -5.5}
+    - name: ExitButtonSpriteList_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 681
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 17.5}
+        - {x: -17.5, y: 17.5}
+        - {x: -21.5, y: 10.5}
+        - {x: -21.5, y: -12.5}
+        - {x: -10.5, y: -18.5}
+        - {x: 22.5, y: -18.5}
+        - {x: 24.5, y: -11.5}
+        - {x: 24.5, y: 14.5}
+    - name: ExitButtonSpriteList_17
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 681
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 17.5}
+        - {x: -20.5, y: 14.5}
+        - {x: -20.5, y: -12.5}
+        - {x: -14.5, y: -18.5}
+        - {x: 11.5, y: -18.5}
+        - {x: 21.5, y: -16.5}
+        - {x: 21.5, y: 10.5}
+        - {x: 16.5, y: 17.5}
+    - name: ExitButtonSpriteList_18
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 681
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 17.5}
+        - {x: -18.5, y: 11.5}
+        - {x: -18.5, y: -12.5}
+        - {x: -8.5, y: -18.5}
+        - {x: 2.5, y: -18.5}
+        - {x: 13.5, y: -17.5}
+        - {x: 19.5, y: -12.5}
+        - {x: 19.5, y: 7.5}
+        - {x: 13.5, y: 17.5}
+    - name: ExitButtonSpriteList_19
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 681
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 17.5}
+        - {x: -11.5, y: 15.5}
+        - {x: -17.5, y: 9.5}
+        - {x: -17.5, y: -7.5}
+        - {x: -13.5, y: -18.5}
+        - {x: 9.5, y: -18.5}
+        - {x: 18.5, y: -12.5}
+        - {x: 18.5, y: 12.5}
+        - {x: 7.5, y: 17.5}
+    - name: ExitButtonSpriteList_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 545
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 16.5}
+        - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -17.5}
+        - {x: 16.5, y: -17.5}
+        - {x: 17.5, y: -13.5}
+        - {x: 17.5, y: 5.5}
+        - {x: 16.5, y: 12.5}
+    - name: ExitButtonSpriteList_21
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 545
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 14.5}
+        - {x: -14.5, y: 7.5}
+        - {x: -14.5, y: -9.5}
+        - {x: -6.5, y: -15.5}
+        - {x: 11.5, y: -15.5}
+        - {x: 15.5, y: -7.5}
+        - {x: 15.5, y: 12.5}
+        - {x: 10.5, y: 14.5}
+    - name: ExitButtonSpriteList_22
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 545
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 12.5}
+        - {x: -11.5, y: 7.5}
+        - {x: -11.5, y: -5.5}
+        - {x: -6.5, y: -13.5}
+        - {x: 10.5, y: -13.5}
+        - {x: 13.5, y: -12.5}
+        - {x: 13.5, y: 5.5}
+        - {x: 9.5, y: 12.5}
+    - name: ExitButtonSpriteList_23
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 545
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 12.5}
+        - {x: -13.5, y: 10.5}
+        - {x: -13.5, y: -7.5}
+        - {x: -11.5, y: -12.5}
+        - {x: -6.5, y: -13.5}
+        - {x: 10.5, y: -13.5}
+        - {x: 13.5, y: -10.5}
+        - {x: 13.5, y: 7.5}
+        - {x: 10.5, y: 12.5}
+    - name: ExitButtonSpriteList_24
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 545
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: -10.5}
+        - {x: -4.5, y: -14.5}
+        - {x: 10.5, y: -14.5}
+        - {x: 13.5, y: -13.5}
+        - {x: 13.5, y: 4.5}
+        - {x: 11.5, y: 12.5}
+        - {x: -10.5, y: 12.5}
+        - {x: -13.5, y: 6.5}
+    - name: ExitButtonSpriteList_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 409
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 14.5}
+        - {x: -13.5, y: 9.5}
+        - {x: -13.5, y: -11.5}
+        - {x: -7.5, y: -15.5}
+        - {x: 14.5, y: -15.5}
+        - {x: 14.5, y: 9.5}
+        - {x: 12.5, y: 14.5}
+    - name: ExitButtonSpriteList_26
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 409
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -7.5}
+        - {x: -12.5, y: -13.5}
+        - {x: -6.5, y: -16.5}
+        - {x: 8.5, y: -16.5}
+        - {x: 15.5, y: -12.5}
+        - {x: 15.5, y: 7.5}
+        - {x: 14.5, y: 14.5}
+        - {x: -10.5, y: 14.5}
+        - {x: -15.5, y: 7.5}
+    - name: ExitButtonSpriteList_27
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 409
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 14.5}
+        - {x: -16.5, y: 12.5}
+        - {x: -16.5, y: -17.5}
+        - {x: -10.5, y: -18.5}
+        - {x: 18.5, y: -18.5}
+        - {x: 18.5, y: 14.5}
+    - name: ExitButtonSpriteList_28
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 409
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 17.5}
+        - {x: -10.5, y: 17.5}
+        - {x: -18.5, y: 3.5}
+        - {x: -18.5, y: -11.5}
+        - {x: -6.5, y: -21.5}
+        - {x: 9.5, y: -21.5}
+        - {x: 18.5, y: -9.5}
+        - {x: 18.5, y: 10.5}
+        - {x: 16.5, y: 15.5}
+    - name: ExitButtonSpriteList_29
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 409
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 20.5}
+        - {x: -21.5, y: 6.5}
+        - {x: -21.5, y: -5.5}
+        - {x: -6.5, y: -21.5}
+        - {x: 7.5, y: -21.5}
+        - {x: 21.5, y: -9.5}
+        - {x: 21.5, y: 7.5}
+        - {x: 6.5, y: 20.5}
+    - name: ExitButtonSpriteList_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 273
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 21.5}
+        - {x: -22.5, y: -22.5}
+        - {x: -20.5, y: -23.5}
+        - {x: 14.5, y: -23.5}
+        - {x: 22.5, y: -15.5}
+        - {x: 22.5, y: 15.5}
+        - {x: 15.5, y: 21.5}
+    - name: ExitButtonSpriteList_31
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 273
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 24.5}
+        - {x: -24.5, y: -24.5}
+        - {x: 23.5, y: -24.5}
+        - {x: 23.5, y: 21.5}
+        - {x: 16.5, y: 24.5}
+    - name: ExitButtonSpriteList_32
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 273
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 20.5}
+        - {x: 0.5, y: 32.5}
+        - {x: -22.5, y: 32.5}
+        - {x: -31.5, y: 8.5}
+        - {x: -31.5, y: -21.5}
+        - {x: -0.5, y: -31.5}
+        - {x: 18.5, y: -31.5}
+        - {x: 28.5, y: -19.5}
+        - {x: 29.5, y: -16.5}
+        - {x: 29.5, y: 15.5}
+    - name: ExitButtonSpriteList_33
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 273
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 40.5}
+        - {x: -14.5, y: 40.5}
+        - {x: -40.5, y: 3.5}
+        - {x: -40.5, y: -12.5}
+        - {x: -34.5, y: -21.5}
+        - {x: -4.5, y: -40.5}
+        - {x: 16.5, y: -40.5}
+        - {x: 36.5, y: -7.5}
+        - {x: 37.5, y: -4.5}
+        - {x: 37.5, y: 13.5}
+    - name: ExitButtonSpriteList_34
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 273
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: 10.5}
+        - {x: 18.5, y: 48.5}
+        - {x: 11.5, y: 52.5}
+        - {x: -0.5, y: 52.5}
+        - {x: -5.5, y: 43.5}
+        - {x: -52.5, y: 13.5}
+        - {x: -52.5, y: -16.5}
+        - {x: -13.5, y: -52.5}
+        - {x: 17.5, y: -52.5}
+        - {x: 51.5, y: -12.5}
+        - {x: 52.5, y: -9.5}
+        - {x: 52.5, y: 2.5}
+    - name: ExitButtonSpriteList_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 64.5}
+        - {x: -65.5, y: 53.5}
+        - {x: -65.5, y: -52.5}
+        - {x: -60.5, y: -65.5}
+        - {x: 1.5, y: -65.5}
+        - {x: 65.5, y: -31.5}
+        - {x: 65.5, y: 13.5}
+        - {x: 49.5, y: 64.5}
+    - name: ExitButtonSpriteList_36
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 137
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.5, y: 66.5}
+        - {x: -43.5, y: 66.5}
+        - {x: -67.5, y: 41.5}
+        - {x: -67.5, y: -42.5}
+        - {x: -36.5, y: -67.5}
+        - {x: 48.5, y: -67.5}
+        - {x: 67.5, y: -51.5}
+        - {x: 67.5, y: 37.5}
+        - {x: 41.5, y: 64.5}
+    - name: ExitButtonSpriteList_37
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 137
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 66.5}
+        - {x: -67.5, y: 46.5}
+        - {x: -67.5, y: -16.5}
+        - {x: -49.5, y: -67.5}
+        - {x: 3.5, y: -67.5}
+        - {x: 67.5, y: -46.5}
+        - {x: 67.5, y: 0.5}
+        - {x: 52.5, y: 66.5}
+    - name: ExitButtonSpriteList_38
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 137
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53.5, y: 66.5}
+        - {x: -19.5, y: 66.5}
+        - {x: -67.5, y: 55.5}
+        - {x: -67.5, y: 30.5}
+        - {x: -65.5, y: 26.5}
+        - {x: -46.5, y: -67.5}
+        - {x: 6.5, y: -67.5}
+        - {x: 63.5, y: -53.5}
+        - {x: 67.5, y: -51.5}
+        - {x: 67.5, y: 21.5}
+        - {x: 55.5, y: 62.5}
+    - name: ExitButtonSpriteList_39
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 137
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: 56.5}
+        - {x: -55.5, y: 56.5}
+        - {x: -67.5, y: 53.5}
+        - {x: -67.5, y: -67.5}
+        - {x: 67.5, y: -67.5}
+        - {x: 67.5, y: 42.5}
+        - {x: 56.5, y: 61.5}
+        - {x: 49.5, y: 66.5}
+        - {x: 38.5, y: 66.5}
+    - name: ExitButtonSpriteList_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.5, y: 64.5}
+        - {x: -67.5, y: -58.5}
+        - {x: -65.5, y: -65.5}
+        - {x: 55.5, y: -65.5}
+        - {x: 62.5, y: -64.5}
+        - {x: 67.5, y: -62.5}
+        - {x: 67.5, y: 64.5}
+    - name: ExitButtonSpriteList_41
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55.5, y: 64.5}
+        - {x: -1.5, y: 64.5}
+        - {x: -58.5, y: 59.5}
+        - {x: -65.5, y: 52.5}
+        - {x: -65.5, y: 43.5}
+        - {x: -50.5, y: 29.5}
+        - {x: -62.5, y: -47.5}
+        - {x: -59.5, y: -65.5}
+        - {x: -43.5, y: -65.5}
+        - {x: -37.5, y: -62.5}
+        - {x: -1.5, y: -65.5}
+        - {x: 66.5, y: -65.5}
+        - {x: 66.5, y: 47.5}
+        - {x: 64.5, y: 60.5}
+    - name: ExitButtonSpriteList_42
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.5, y: 63.5}
+        - {x: -64.5, y: 54.5}
+        - {x: -64.5, y: 45.5}
+        - {x: -63.5, y: 43.5}
+        - {x: -64.5, y: -8.5}
+        - {x: -64.5, y: -61.5}
+        - {x: -56.5, y: -64.5}
+        - {x: 64.5, y: -64.5}
+        - {x: 64.5, y: 63.5}
+    - name: ExitButtonSpriteList_43
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.5, y: 62.5}
+        - {x: -63.5, y: 55.5}
+        - {x: -63.5, y: -17.5}
+        - {x: -61.5, y: -58.5}
+        - {x: -57.5, y: -63.5}
+        - {x: 64.5, y: -63.5}
+        - {x: 64.5, y: 62.5}
+    - name: ExitButtonSpriteList_44
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63.5, y: 61.5}
+        - {x: -61.5, y: 61.5}
+        - {x: -62.5, y: 56.5}
+        - {x: -62.5, y: -60.5}
+        - {x: -55.5, y: -62.5}
+        - {x: 63.5, y: -62.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
